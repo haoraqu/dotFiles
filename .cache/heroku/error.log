@@ -1,0 +1,19 @@
+2016/07/18 12:51:58 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: version
+2016/07/18 12:51:58 triggering background update
+2016/07/18 12:51:58 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: update
+2016/07/18 12:51:58 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/07/18 12:51:58 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: login
+2016/07/18 12:51:58 Email: 
+2016/07/18 12:55:31 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: version
+2016/07/18 12:55:31 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/07/18 12:56:06 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: version
+2016/07/18 12:56:06 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/07/18 13:02:48 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: version
+2016/07/18 13:02:48 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/07/18 13:02:48 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: git:remote
+2016/07/18 13:14:11 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: version
+2016/07/18 13:14:11 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/07/18 13:14:11 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: create
+2016/07/18 13:15:45 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: version
+2016/07/18 13:15:45 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: commands
+2016/07/18 13:15:45 heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2 /Users/rhao1/.local/share/heroku/cli/bin/heroku cmd: open

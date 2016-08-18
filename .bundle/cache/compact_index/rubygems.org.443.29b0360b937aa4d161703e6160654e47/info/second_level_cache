@@ -1,0 +1,22 @@
+---
+1.3.2 activesupport:~> 3.2.0|checksum:/v38r6iuv4OdHA0QyeKFUshtPVYpmbf7/PT8/80fTyE=
+1.5.0 activesupport:~> 3.2.0|checksum:QzEpa+hckwiIglizpIDKeSEdkyXY1R0yJYKfVHFg6Zc=
+1.5.1 activesupport:~> 3.2.0|checksum:Dya/pPJKVcE+DknLfKGabKXo8vNZkv6Db32qGLkh90Q=
+1.6.0 activesupport:~> 3.2.0|checksum:Q/UAO0t8MtrjqoIcoLLcqtKzJQDG9/AiLMp9D8edXws=
+1.6.1 activesupport:~> 3.2.0|checksum:vo+0BSx1F3geTwq4vbzKCLt3U21+/o5tCTjOBPsmlCc=
+1.6.2 activesupport:~> 3.2.0|checksum:Olxb3jXCSUJUrFco1Sna9ZAZV1Q6alSMKNvUTdQEFME=
+2.0.0.beta activesupport:~> 4.0.0.beta1|checksum:GqZobFGzdFo/maGdm9xF4xlI0712E3uCEZ1SUFA7RA4=,rubygems:> 1.3.1
+2.0.0.rc1 activesupport:~> 4.0.0.beta1|checksum:bcGNqFZWj9ToFlikwtFQUvOH9tULO2IbwRKvK+vRH/8=,rubygems:> 1.3.1
+2.0.0 activesupport:~> 4.0.0.beta1|checksum:GB/rwJHuJ3++rNd80/JCuyPsLoj0PJEtghH/EiXrUDo=
+2.1.0.rc1 activesupport:< 5.0&> 4.0.0|checksum:Fq0K1QodpJVCDeqUxi0Qf4QNvowJLDzo/wyFdR+u5c4=,rubygems:> 1.3.1
+2.1.0.rc2 activerecord:< 5.0&> 4.0.0,activesupport:< 5.0&> 4.0.0|checksum:sTKFcLRah2kTtHSlnYYwFaE6INQzFkaDkjuqiJ2cg8o=,rubygems:> 1.3.1
+2.1.0 activerecord:< 5.0&> 4.0.0,activesupport:< 5.0&> 4.0.0|checksum:Y06h03An7CUT1i2uujd+tmwkq8NGch9UfgHVhYK4Z9U=,ruby:>= 0
+2.1.1 activerecord:< 5.0&> 4.0.0,activesupport:< 5.0&> 4.0.0|checksum:Wp8l0ej4E6eiXuV81ejgGFF2mJQQDnuNhtQTwmjM5uQ=,ruby:>= 0
+2.1.2 activerecord:< 5.0&> 4.0.0,activesupport:< 5.0&> 4.0.0|checksum:mcpuOXXkCyxW24hsLqdB95lYmmkVeI3Zny/dkPCkwAo=,ruby:>= 0
+2.1.5 activerecord:< 5.0&> 4.0.0,activesupport:< 5.0&> 4.0.0|checksum:
+2.1.6 activerecord:< 5.0&> 4.0.0,activesupport:< 5.0&> 4.0.0|checksum:
+2.1.7 activerecord:< 5.0&> 4.0.0,activesupport:< 5.0&> 4.0.0|checksum:
+2.1.8 activerecord:< 5.0&> 4.0.0,activesupport:< 5.0&> 4.0.0|checksum:6cb54ffd0d3b4827cb3bc6618e1682192ac12d562731da26e30056cb8b6224b4,ruby:>= 0,rubygems:>= 0
+2.1.9 activerecord:< 5.0&> 4.0.0,activesupport:< 5.0&> 4.0.0|checksum:452411146ef2a191bce7cd056a1d84ce7d1b90118978d738e6f0d23c08db43f3,ruby:>= 0,rubygems:>= 0
+2.2.1 activerecord:< 5.1.0&>= 5.0.0.beta1,activesupport:< 5.1.0&>= 5.0.0.beta1|checksum:dcb951437cb75f435ce9e23ae8e44b5c4f6974248f80684c1a30466dd0572f36,ruby:>= 0,rubygems:>= 0
+2.2.2 activerecord:< 5.1.0&>= 5.0.0.beta1,activesupport:< 5.1.0&>= 5.0.0.beta1|checksum:b5e0400a7e06566e5731b54f6ecfc7d56c71ae251708bbf01e03c2a4b485e394,ruby:>= 0,rubygems:>= 0

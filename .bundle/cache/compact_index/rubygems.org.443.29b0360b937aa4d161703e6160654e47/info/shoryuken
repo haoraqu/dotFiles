@@ -1,0 +1,20 @@
+---
+0.0.1 aws-sdk:>= 0,celluloid:>= 0,multi_json:>= 0|checksum:pQHQ3WfXklUP9qorXpB/xJ5ol8AYRxD92EIea8KRktk=,ruby:>= 0
+0.0.2 aws-sdk:>= 0,celluloid:>= 0,multi_json:>= 0|checksum:p02dmJkRy4r4vTn5abdEuVbuaWzNwX8XfuuvhbTTJX0=,ruby:>= 0
+0.0.3 aws-sdk:>= 0,celluloid:>= 0|checksum:O1o1GH7TE0RLh7kZ/9ScHYhjAzryYtmHmSE58qMzDbU=,ruby:>= 0
+0.0.4 aws-sdk-v1:>= 0,celluloid:~> 0.15.2|checksum:ZjRJc3E1DyLATzZGy2XCdAoL2JziyICo73arFUAVv94=,ruby:>= 0
+0.0.5 aws-sdk-v1:>= 0,celluloid:~> 0.16.0|checksum:w2f79xh6mNpXMNIkXhrGa0GSiC7d5vvtzMyZd1SkwLY=,ruby:>= 0
+1.0.0 aws-sdk-core:= 2.0.21,aws-sdk-resources:= 2.0.21.pre,celluloid:~> 0.16.0|checksum:ixHDVyOp/MYk4Ig2RC+Rt8o+31ccaLyW7QZL2sgy4K8=,ruby:>= 0
+1.0.1 aws-sdk-core:~> 2.0.21,celluloid:~> 0.16.0|checksum:09judqh5UkK9V+EjrFYQIu9W6VIBDUYelv74r0MN8o4=,ruby:>= 0
+1.0.2 aws-sdk-core:~> 2.0.21,celluloid:~> 0.16.0|checksum:xDdt1aXZoEiQEf788KFUIbw9U3sjmUt8xwD5cCJgfaI=,ruby:>= 0
+1.0.3 aws-sdk-core:~> 2.0.21,celluloid:~> 0.16.0|checksum:E2D1gTnUcl5rTP6vLc1YIrW2HjIfqv4YrGQIpOr+IO4=,ruby:>= 0
+2.0.0 aws-sdk-core:~> 2.0.21,celluloid:~> 0.16.0|checksum:
+2.0.1 aws-sdk-core:~> 2,celluloid:~> 0.16.0|checksum:
+2.0.2 aws-sdk-core:~> 2,celluloid:~> 0.16.0|checksum:
+2.0.3 aws-sdk-core:~> 2,celluloid:~> 0.16|checksum:d41a04ac0d52803c3c6c367ff0de1b927c437b1ebf0d0bf5cc8591bad375cfd9,ruby:>= 0,rubygems:>= 0
+2.0.4 aws-sdk-core:~> 2,celluloid:~> 0.16|checksum:64d095948dc5f6d0f7a5f58488b44e94ef59d78486090c6fa2dd08410e89ba5f,ruby:>= 0,rubygems:>= 0
+2.0.6 aws-sdk-core:~> 2,celluloid:~> 0.16|checksum:8a0ee99697d3806fe1168e8bdfb732d136da62fe564bdd4857353dc583e98e82,ruby:>= 0,rubygems:>= 0
+2.0.7 aws-sdk-core:~> 2,celluloid:~> 0.16|checksum:72b819adf65f828678bf2c0ff39b58ee4c073f91aeafb194a1e19e789bcb9ff9,ruby:>= 0,rubygems:>= 0
+2.0.8 aws-sdk-core:~> 2,celluloid:~> 0.16|checksum:f3826df8edd83e89baea4ff2ea68ad0d29d180f4c6d8e5c87f7e664c069da7cf,ruby:>= 0,rubygems:>= 0
+2.0.9 aws-sdk-core:~> 2,celluloid:~> 0.16|checksum:b42f2673c1fb6194a52666c6b7c72756c31cd18d68affeb337e2f170fd23961f,ruby:>= 0,rubygems:>= 0
+2.0.10 aws-sdk-core:~> 2,celluloid:~> 0.16|checksum:0b6132de033305b511a259c39c1dd3ba0466626930167992703aee13623bda58,ruby:>= 0,rubygems:>= 0

@@ -1,0 +1,88 @@
+---
+1.0.4 |checksum:Tmyh4Ig/Fg8ai4SPZy/i93tInP1V8G8AGbzc11NK2lo=
+1.0.5 |checksum:GIqWqlw91UlGDvdJG+2zWj8oM0eCmND0Mud9XrAhgs8=
+1.0.6 |checksum:pWAGlklhwgY9lbekUTdCjEHtg/g0jCWZHQ+NXIeQWdc=
+1.0.7 |checksum:UpsLDEfJOHBo58L+9sdzreNC3nhFZk/7ro8TVyUzBY4=
+1.0.8 |checksum:XshLl7c3wXlVjcFX1OrgcrTj1KGyQEJHN2IMryBrRmY=
+1.0.9 |checksum:bvzo1s7EY7aHwpCHV6ZFOyMOYA4GjfPCrjpLrXAjrc4=
+1.0.10 |checksum:68cp6b4xuts3OtKZqmHj/QehBOYHaXtGw6PNQ0WlX5A=
+1.0.11 |checksum:GF3HPRwHKDEwmZlvy4mLWhUWAswmJDGRig3JbTAN6JQ=
+1.1.0 |checksum:w7LCTD077sw8hQzyP3rgU6L7+T8anjmpf1K0N4sNB74=
+1.1.1 |checksum:z0j21B8sLO2OZgOCXBmqUGx3XDhOItj2MmnkJfwe3bQ=
+1.1.2 |checksum:3prarLHmlAy7hMQRiN1I/8uQWu4V6s/j9HyFgfGRsSU=
+1.1.3 |checksum:jNPjYTdxpMmJCSUFaUvwec/7u9p+BaU2IOS3X48dG+c=
+1.1.4 |checksum:MtHKwJkuXai2tfYYS775aap3KbGyhGhSMNNNtYSM33M=
+1.1.5 |checksum:ivMTTUMmVG2JdnfUTT3BKxdoKIHQqZwcmC794iNPQk0=
+1.1.6 |checksum:RneLiFLDnzj4h5lqDlL8fA1+8j2xD9qI2NbP/Yc3ZIY=
+1.1.7 |checksum:JAOeV4tHgNCQ0BjxETUKEziK7C8NBCwHCeuRsA4svfw=
+1.1.8 |checksum:Wi6To3/vrx8vR9LCZ2/7qJ0ANPWEkjOEQMZ0w4bHvyE=
+1.1.9 |checksum:j86+ieMzS8MNywMuQPIRILLMm0YoPwcr3N8O9S/BHmA=
+1.1.10 |checksum:S4Pp8a05yee7OLQTdLzJv9dDj5ktbBEsi1NWsrf3dU0=
+1.1.11 |checksum:Pbh8ZHP36QnsKNru4kTGNaWJZGwNopgjUeLSuhU6Wno=
+1.1.12 |checksum:Wp4lG3+9Wo62S0gxpO+b/y2u8WLEHxHAAQbFaqZqMBw=
+1.2.0 |checksum:1Jts+vOCYRNPM6TDtZjWkpMXBCshexqS+NCAbwcJbyo=
+1.2.1 |checksum:QsoRnnZurzXOwRgKrQyYNICIYDXVhB1uP5ycmqggyqY=
+1.2.2 |checksum:LW5D5rr6UEQNegH/H41nm1g+gxGPBQnI9ku8BzdVdn4=
+1.2.3 |checksum:QuvzWNRi7Q8JhNp4tkSpq1kLAHKcysd9IskTWIMI2sk=
+1.2.4 |checksum:jGJH/ASQS3qsCvFCVDmHFCrISzTOhEsmba954RGfTwU=
+1.2.5 |checksum:wPx5i3oULvyz3dBrZ9ymIy9tqQovSOZgP7VnJoF/YZM=
+1.2.6 |checksum:iTiqiqPzyGdtbx/BO7WIeM3QHeRCZRlfRSiAkes0t2o=
+1.2.7 |checksum:dqxcY4n3rnKJfhceUvzNt1D7ktqnb2xTQz4zlKXlrqw=
+1.2.8 |checksum:H3EHe1LWcIPfHMWFP9oVoBdv3Vxvy3tB156Sq3ifXpc=
+1.2.9 |checksum:yiZtK0KvjpiiDs9JlznBxOJOj9xZvDh0JSjCnVPC0x4=
+1.2.10 |checksum:VGuW0f1V2gfCHDTZqUlsmCZmSSdE4c3vvQgkcJ+Xf+k=
+2.1.1 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:EYqGUGQOGb1JoLtVKohdDaJWyFaCV5jpSZIfyQ/lYYQ=
+2.2.0 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:KWiMPeos8T6epJ8mCFbDMbgMW9Owl6xJydlfEEtFmZM=
+2.3.0 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:khGEaF63Yfa+xJatP59MxDmJqVo1HCgMRlhyqVesr3Q=
+2.3.1 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:citzpYJk7zeMrqvDQhXNdgnVUSfgG7lqS65h84JgDag=
+2.3.2 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:FDIFe6MpUZjbjLhyaqy4/CotfTrXF0mD6MqYQQs4EDE=
+2.3.3 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:iFiyxQnu2jIXXni39UJoJJboaaS8BgY9Mo8G/H/yNps=
+2.3.4 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:N6NBbS73pUYM9IU1/rZve5WuETNQdG6au69/Y7ekm6k=
+2.4.0 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:GhLocu77eHfhW9eQC9bHYObJcq+M1i/Pe62qGmDLhyw=
+2.4.1 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:zsyJFn9DtApuNKdJk/qBbTPgwxe5SsXtuYqW+ijPt9w=
+2.4.2 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:w7HQArvBBIYpOCWzZM9niXvch91Tg5392g8otre1nSM=
+2.4.3 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:y0VIk/7tSf74yxL64npfcN6e9bWtK+U94XRnbnPnUsM=
+2.4.4 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:b5xaM/pnGMNC5MpF6/M3hf/m6RUnzqgAx4v6o8WGsuU=
+2.5.0 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:ls3LZ5CEqiOn4jyuwkKcJE42ZFSFBh74UPfx5rnTgwM=,ruby:>= 0
+2.5.1 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:nRfvQn5TqWFV10lbuin0+4v4uulBBzbnj8PWoRPBsPY=,ruby:>= 0
+2.5.2 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:QdwWaPq4wUFSjTwesQMCdCSWljk+JbTExkekjP7yhLE=,ruby:>= 0
+2.5.3 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:2qgAWZ1cd6gyDbTTx/Hvyw2ShmhnKCQp3e6toKHVTQk=,ruby:>= 0
+2.5.4 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:3nVUUBAGhc2DCwkWgd1KSSeHzVYgjaRcI4IlWtoI2hc=,ruby:>= 0
+2.5.5 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:EffiD3ZGNyMJI7XhR2oIyQG1AYTpFbu7YCQjhDtV2S4=,ruby:>= 0
+2.5.6 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:NH4ExSBvCmlo1DW9372ihJPhO3tFDbX4ag3bBgU9X4w=,ruby:>= 0
+2.5.7 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:fCGwL6LJVxJsJ+rSr71l7qV+ul9roIhx1Q0F3OnsWhw=,ruby:>= 0
+3.0.0 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:xXGtwLEqUOW6T03y1YaurWlgCfCnlRX8q75j2vvG+vM=,ruby:>= 0
+3.0.1 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:WRnylIvX+yvZrK27dSj5HjDO2Mt/A+F2cYo6PwhrKaE=,ruby:>= 0
+3.0.2 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:7mBF8XHMh/VkIu88iQfAf/wR/u7KfTJEYT4fsuyKDsQ=,ruby:>= 0
+3.1.0 nokogiri:>= 1.4.4,rubyzip:>= 1.0.0|checksum:55BuchqSYXv4KJT9u0/PX1qVFQmJ60vwYk5Xwh/eAO4=,ruby:>= 0
+3.1.2 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:U99wk4/mSUwU+D5vpo5Yk6ytLManF109IKn7MJMUNNA=,ruby:>= 0
+3.2.0 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:TvvSWPfOb+6SwjkAe+mtIXaYJpexzD8Z0yxvNNDd7mo=,ruby:>= 0
+3.2.1 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:DoS1YqSq20Ew3oTB9077usx3CjT/QgoEYsWM1lw8Phw=,ruby:>= 0
+3.2.2 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:V6HHGAaXOn8X1iKuPgYsEnGIip/spdlGHbBzyO3whjA=,ruby:>= 0
+3.2.3 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:dLqZIVbU3cT2EWxJmXiwmd6ozmigk/HLSQ8gJYnGnkw=,ruby:>= 0
+3.2.4 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:xmL9kHGu+xz5Tkp6CHAhIeUVpspgG9D+F3wly6cn+KA=,ruby:>= 0
+3.2.5 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:MdQkcAfj09C/ln436IE6x6eHtodA8/bn0Uwu1fOExyM=,ruby:>= 0
+3.2.6 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:sJDwV4ngBg3iZVpj+UBG/c7HAr53Lp5WVlstQKcs8L0=,ruby:>= 0
+3.2.7 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:n7mB2O/J+uJMM1bJUVNNlhJCLYmBOy3O/VfAzhUEulI=,ruby:>= 0
+3.3.0 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:jz644YrP9aGkBOCbhWupbYs0ukUKe8P2iQiZYpRPlig=,ruby:>= 0
+3.3.1 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:6TRBxGK3SVjW5UVvrLlHnAwMgOM8bk8/vj7a3PlUo3A=,ruby:>= 0
+3.3.2 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:9xYoXRriGxJFrXzp2fsbRJBBN+c0ERK1khq+2HB9VKo=,ruby:>= 0
+3.3.3 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:rMghPyI4QOs1k/MOr3Bi8Zgc5i2/t5AjqJQP95XcfUs=,ruby:>= 0
+3.3.4 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:G2+Pp2WQQlHW9/LdHRzI3gRuObxvJz5dUGl6kjBETmc=,ruby:>= 0
+3.3.5 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:HNEXrTLXF+V3CGU9ZkY8r9NgB01R7G2xQVREHjggXKM=,ruby:>= 0
+3.3.6 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:LmmkXigiITDDetXrJGy1Rd0fH4TMv0cEleiAG1gz/Bg=,ruby:>= 0
+3.3.7 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:eDC6nrHvXlwsNLVySHvRBo4KLn1nkAccOvrDdap8Nhg=,ruby:>= 0
+3.3.8 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:8rBSVMP5F3ZojAPqXvCgoql6grVMdJx2HpnBGZNSGVU=,ruby:>= 0
+3.3.9 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:Z0E8fCNETIsLMcCpVdrSf1UnlHSkIslL8RFuvJLK6YI=,ruby:>= 0
+3.3.10 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:RSuTPPCTLf71G5VD/mCILwl3MsKQfXNAE6yuieHux+M=,ruby:>= 0
+3.3.11 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:
+3.3.12 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:
+3.3.13 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:
+3.3.14 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:
+3.3.15 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:
+3.3.16 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:fc6f3377d7c6005d5886e6212d640ea4ae4ad44c9e93234ae9b05ed72576d26b,ruby:>= 0,rubygems:>= 0
+3.3.17 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:d970d3c458ac9406905908614addfcb88e57b892515da0612743f532eff30f91,ruby:>= 0,rubygems:>= 0
+3.3.18 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:1af93851a1f8cfe5c02fc0ff9ccc9b813a5652eafa1be1b3bc2eb922120f8be4,ruby:>= 0,rubygems:>= 0
+3.3.19 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:871a5a98b061797f060a7996ff8ce7c47dd7ab6ef3358d44819a0f107c74f8ba,ruby:>= 0,rubygems:>= 0
+3.3.20 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:62a3bb934c14fc9a6a2a73f7d885a3ebf28802116be5c4dcbdc0a35f9e80957c,ruby:>= 0,rubygems:>= 0
+3.3.21 nokogiri:>= 1.4.4,rubyzip:>= 1.1.6|checksum:9d107998e02c9de8e78b276b53f8b43f70698700028ac15eabd9506c8d1ca6d1,ruby:>= 0,rubygems:>= 0

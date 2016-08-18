@@ -1,0 +1,16 @@
+---
+1.0.0 coffee-rails:>= 3.1,ice_cube:>= 0.8,jquery-rails:>= 0,rails:>= 3.1,sass-rails:>= 3.1|checksum:te7+G4P4dNyDAzhE0NIxYiuUgb0fcveBScVcqBfmcXA=
+1.0.1 coffee-rails:>= 3.1,ice_cube:>= 0.8,jquery-rails:>= 0,rails:>= 3.1,sass-rails:>= 3.1|checksum:J5TXeA/lYEhmom5WBaShxzy2iZOK9oMm6LpbQwDscYI=
+1.0.2 coffee-rails:>= 3.1,ice_cube:>= 0.8,jquery-rails:>= 0,rails:>= 3.1,sass-rails:>= 3.1|checksum:GpEjsVAVKlhxz0iejFULW74ofWAUimkq3wb9c5kSrS4=
+1.1.0 coffee-rails:>= 3.1,ice_cube:>= 0.8,jquery-rails:>= 0,rails:>= 3.1,sass-rails:>= 3.1|checksum:MkOhNzNXiHLckboQ4+NUJPsrml6U0MGMm7q61YZbBUw=
+1.2.0 coffee-rails:>= 3.1,ice_cube:>= 0.8,jquery-rails:>= 0,rails:>= 3.1,sass-rails:>= 3.1|checksum:bJs64tXC25GjRcT1FSBB83+iMR4E/0gFiL7HMCSl0Mo=
+1.2.1.rc1 coffee-rails:>= 3.1,ice_cube:>= 0.11,jquery-rails:>= 3.0,rails:>= 3.2,sass-rails:>= 3.1|checksum:EA/PsISnAL/YCutoqKpLHGhfIlpByvI+WVHWqeOdB8c=,rubygems:> 1.3.1
+1.2.1.rc2 coffee-rails:>= 3.1,ice_cube:>= 0.11,jquery-rails:>= 3.0,rails:>= 3.2,sass-rails:>= 3.1|checksum:LSL1pRhMOnDicYM8+4vSKCFWeD1exeq3266ieogBcQ0=,rubygems:> 1.3.1
+1.2.1.rc3 coffee-rails:>= 3.1,ice_cube:>= 0.11,jquery-rails:>= 3.0,rails:>= 3.2,sass-rails:>= 3.1|checksum:AOkxHsfoVfFbG735v2P5ohDTSpzrFQ3Jy0cPwDVjlMQ=,rubygems:> 1.3.1
+1.2.1 coffee-rails:>= 3.1,ice_cube:>= 0.11,jquery-rails:>= 3.0,rails:>= 3.2,sass-rails:>= 3.1|checksum:/talWDDSozEV5UQjE/6p6K3fgQqhGVS0jdjI9klDqrM=
+1.2.2 coffee-rails:>= 3.1,ice_cube:>= 0.11,jquery-rails:>= 3.0,rails:>= 3.2,sass-rails:>= 3.1|checksum:P4M/NjewplJ7BbloIWAjXQhptIHUOz5fZSPuCNduDHg=,ruby:>= 0
+1.2.3 coffee-rails:>= 3.1,ice_cube:>= 0.11,jquery-rails:>= 3.0,rails:>= 3.2,sass-rails:>= 3.1|checksum:DfJlV0foQiwi+rjderw2qg4UQHlb0lLQOKVMXFR4MF0=,ruby:>= 0
+1.2.4 coffee-rails:>= 3.1,ice_cube:>= 0.11,jquery-rails:>= 3.0,rails:>= 3.2,sass-rails:>= 3.1|checksum:Q7WAmP5hDfJQEHX/EM9GN1l8rwHkbBWm4DwzEA6+37s=,ruby:>= 0
+1.3.0 coffee-rails:>= 3.1,ice_cube:>= 0.11,jquery-rails:>= 3.0,rails:>= 3.2,sass-rails:>= 3.1|checksum:iPS5jCuv/AUZr/wEL7K7Nd0eNULfnZ/nLocl8HI9/SI=,ruby:>= 0
+1.3.1 coffee-rails:>= 3.1,ice_cube:>= 0.11,jquery-rails:>= 3.0,rails:>= 3.2,sass-rails:>= 3.1|checksum:OQ2Dpv4N7A5/qV+YuMbsuP9PvaUH9TEFtsilENGdxoQ=,ruby:>= 0
+2.0.0 coffee-rails:>= 3.1,ice_cube:>= 0.11,jquery-rails:>= 3.0,rails:>= 3.2,sass-rails:>= 4.0|checksum:

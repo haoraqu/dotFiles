@@ -1,0 +1,6 @@
+---
+0.1.0 fork:>= 0|checksum:+ERiy+fkUG1Z3KxS2HHI1aWvRiE3HvLHmfQs0Pnw00s=
+0.1.1 fork:>= 0|checksum:50CcKfI3MPXSmsmcUl0vX/kW0wJhCBRsCdHXdhZ+A4c=
+0.1.2 fork:= 1.0.1|checksum:ME8/gC0z/cZRJ/A0fWP88KZzVNogdzTXku5UhZQWlXM=,ruby:>= 0
+0.1.3 fork:= 1.0.1|checksum:Z3MYpkxQexd4QFMb+UCD685IVdpRWhLSUlx+hcxKQlc=,ruby:>= 0
+0.1.4 fork:= 1.0.1|checksum:

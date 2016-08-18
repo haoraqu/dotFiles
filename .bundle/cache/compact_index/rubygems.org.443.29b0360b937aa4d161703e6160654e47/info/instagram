@@ -1,0 +1,27 @@
+---
+0.1.0 addressable:>= 0,nibbler:>= 1.2.0,yajl-ruby:>= 0|checksum:WuljUP7UANMsRR5QKCcuy2jpnasXcjUgepLt5acLVeM=
+0.2.0 addressable:>= 0,nibbler:>= 1.2.0,yajl-ruby:>= 0|checksum:SobdhaohlqsntMwVUwAxjJ95v6f9VKJg9Kzsnom/8co=
+0.3.0 addressable:>= 0,nibbler:>= 1.2.0,yajl-ruby:>= 0|checksum:rhdX8GMpOxt7XOaEQfvUxT1yBnnWBe1YR/7YMZTDUbc=
+0.3.1 addressable:>= 0,nibbler:>= 1.2.0,yajl-ruby:>= 0|checksum:Q94M/fo0SrTNJGG48NYZYiLBo05i8Etwycu7/2IpP4U=
+0.3.2 addressable:>= 0,nibbler:>= 1.2.0,yajl-ruby:>= 0|checksum:TkK33tUU1jLnWfAbMHP1JKYLRHe1sPhXK8kY1HgjLCY=
+0.6 faraday:~> 0.5.4,faraday_middleware:~> 0.3.1,hashie:~> 1.0.0,multi_json:~> 0.0.5|checksum:g/VB8ZnFLXE4uNVdUhRhImU8HxAFspZHJq3lytLEX6w=,rubygems:>= 1.3.6
+0.6.1 faraday:~> 0.5.4,faraday_middleware:~> 0.3.1,hashie:~> 1.0.0,multi_json:~> 0.0.5,ruby-hmac:~> 0.4.0|checksum:4uIv4EC+/1JnQ2maBZInk/lZUHwHLfhlscVZj58gWCk=,rubygems:>= 1.3.6
+0.6.2 faraday:~> 0.5.4,faraday_middleware:~> 0.3.1,hashie:~> 1.0.0,multi_json:~> 0.0.5|checksum:5ZNC4hFirv5mrA7icXq3ytOmMcNFP61gjr9z5Pod0AI=,rubygems:>= 1.3.6
+0.7 faraday:~> 0.5.4,faraday_middleware:~> 0.3.1,hashie:>= 0.4.0,multi_json:~> 0.0.5|checksum:H4EcsSkUVS+OES92dgGK9qrQQGLCEGE/FOHCDkE2kKA=,rubygems:>= 1.3.6
+0.8 faraday:~> 0.5.4,faraday_middleware:~> 0.3.1,hashie:>= 0.4.0,multi_json:~> 0.0.5|checksum:X2JSw72mn1Hf16Ac70tgnm+6ghsKfByRrA7Fc60156E=,rubygems:>= 1.3.6
+0.8.2 faraday:~> 0.5.4,faraday_middleware:~> 0.3.1,hashie:>= 0.4.0,multi_json:~> 1.0.3|checksum:7CJHXNWoSpxX2PQAAFCIKh9S13BuKWwnmfNBevfydqc=,rubygems:>= 1.3.6
+0.8.3 faraday:~> 0.7,faraday_middleware:~> 0.8,hashie:>= 0.4.0,multi_json:~> 1.0.3|checksum:zkuIyOdPmXFu2HL9S1ExK08IrFLuFfESPgBKiPz6+Xo=,rubygems:>= 1.3.6
+0.8.4 faraday:~> 0.7,faraday_middleware:~> 0.8,hashie:>= 0.4.0,multi_json:~> 1.0.3|checksum:HvbHBYj4G+pIcsXDybVg1DDbdp6KCNW/81GWiLD94wU=,rubygems:>= 1.3.6
+0.8.5 faraday:< 0.9&>= 0.7,faraday_middleware:~> 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:2dhb70ylll+TV2QnB22GsKkToVhph3P6ZOkERtEXepc=,rubygems:>= 1.3.6
+0.9.0 faraday:< 0.9&>= 0.7,faraday_middleware:~> 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:XnkkCTZRdNl3GII2q3X1Q4hdkdZydw3yTJTak1eqPB0=,rubygems:>= 1.3.6
+0.9.1 faraday:< 0.9&>= 0.7,faraday_middleware:~> 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:n5b3f1fgsQpg8mCBGdImh0HcTFF+PQijEhxyvaG+ot0=,rubygems:>= 1.3.6
+0.10.0 faraday:< 0.9&>= 0.7,faraday_middleware:~> 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:+REKy81Ujy8Dzy2zKo7BvR/XH8RoYbl/yXdPyMBW6aI=,rubygems:>= 1.3.6
+0.11.0 faraday:< 0.9&>= 0.7,faraday_middleware:~> 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:qr+T1lFyfenc73rCUEWOOCchmesMdKvdaddfqTvncVs=,rubygems:>= 1.3.6
+1.0.0 faraday:< 0.10&>= 0.7,faraday_middleware:< 0.10&>= 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:QmRmL5zQRHS8JfRy0vN25m6+oDm3OFk4Y6UNSDYNWnM=,ruby:>= 0,rubygems:>= 1.3.6
+1.1.0 faraday:< 0.10&>= 0.7,faraday_middleware:< 0.10&>= 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:t0D2b7RvhRmcl6iQvPjoTyMuRUKHUn7Cft/mCZVgWGI=,ruby:>= 0,rubygems:>= 1.3.6
+1.1.1 faraday:< 0.10&>= 0.7,faraday_middleware:< 0.10&>= 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:VBRO73GvXZqKpcwAYYjLnboefaOaxvbdnWsKgAUvZX8=,ruby:>= 0,rubygems:>= 1.3.6
+1.1.2 faraday:< 0.10&>= 0.7,faraday_middleware:< 0.10&>= 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:3dWL5E6EtbK1xObcZ8C1R7wanOzCUUI8SKWG4r3MUdQ=,ruby:>= 0,rubygems:>= 1.3.6
+1.1.3 faraday:< 0.10&>= 0.7,faraday_middleware:< 0.10&>= 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:+ws9JKgIM9rVWqhkMPjxWyN1Z43WEX1ZOp5AkdrMKAg=,ruby:>= 0,rubygems:>= 1.3.6
+1.1.4 faraday:< 0.10&>= 0.7,faraday_middleware:< 0.10&>= 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:kJZeREUBDsFMcjkRxtb5/qMvdHxNWl0I5Lkn7Qex2ho=,ruby:>= 0,rubygems:>= 1.3.6
+1.1.5 faraday:< 0.10&>= 0.7,faraday_middleware:< 0.10&>= 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:BeFTPEJotivOcm1CTLDt83AT5SGr76ApDlo+l6QST08=,ruby:>= 0,rubygems:>= 1.3.6
+1.1.6 faraday:< 0.10&>= 0.7,faraday_middleware:< 0.10&>= 0.8,hashie:>= 0.4.0,multi_json:>= 1.0.3&~> 1.0|checksum:

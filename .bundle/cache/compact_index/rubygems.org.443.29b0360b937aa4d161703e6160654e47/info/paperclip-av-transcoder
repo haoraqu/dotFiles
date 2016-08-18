@@ -1,0 +1,8 @@
+---
+0.0.5 av:>= 0.0.1,paperclip:>= 2.5.2|checksum:6GkkiOexjZnl//x5ZF1ekd9Le4/x1N/cQ7CKdlRioho=,ruby:>= 0
+0.1.0 av:>= 0.0.1,paperclip:>= 2.5.2|checksum:jouoo/32YhAsCJm+gGk0b7sPJtP1ETJbw7MYgIQeFuQ=,ruby:>= 0
+0.5.0 av:>= 0.4.0,paperclip:>= 2.5.2|checksum:MBwVbmSEc2zKAZoIzN+TA+LZ/xmg7WQ3wd22462Okkc=,ruby:>= 0
+0.6.0 av:>= 0.4.0,paperclip:>= 2.5.2|checksum:/33EREHegSUcOTqCpXj/Qlcg4XpUZdlXqKRLdeqeifs=,ruby:>= 0
+0.6.2 av:>= 0.7.1,paperclip:>= 2.5.2|checksum:Hu/nO7enydxkPK9gvMJEjrJbcjIUMBqtJUgmG3BNtp0=,ruby:>= 0
+0.6.3 av:~> 0.8.1,paperclip:>= 2.5.2|checksum:FcJBQQ2fYk8iaC6K+rUZ7GlzUNUwUD+vMAh3AWqnCtI=,ruby:>= 0
+0.6.4 av:~> 0.9.0,paperclip:>= 2.5.2|checksum:DlIU2Gbnrott/zQ57/9Z9qRh1MOeyMhoxLSsdt24lr0=,ruby:>= 0

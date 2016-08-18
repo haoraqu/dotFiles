@@ -1,0 +1,5 @@
+---
+0.1.0 virtus:~> 1.0|checksum:
+0.2.0 virtus:~> 1.0|checksum:3887fdd852a8242b166a18f896c5e5a2278b8ac5dba457ebf1280b04f2073ee6,ruby:>= 0,rubygems:>= 0
+0.3.0 virtus:~> 1.0|checksum:dc058927329c22e9b7c81c0a27286c15787348110226a026f79a27e37ca13e28,ruby:>= 0,rubygems:>= 0
+0.3.1 virtus:~> 1.0|checksum:a00f1f2d432a225a6188bd5c6f54240ed212060b1a8f4573185b4884aa190146,ruby:>= 0,rubygems:>= 0

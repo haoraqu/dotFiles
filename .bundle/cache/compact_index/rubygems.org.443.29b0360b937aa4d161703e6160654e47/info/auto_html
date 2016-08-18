@@ -1,0 +1,25 @@
+---
+1.2.0 |checksum:inqgunZ//nRhq+8XdN/OCjj1jzfJBup48J/AJ+Lxk2k=
+1.2.1 |checksum:tpp5XNZblsPGWeGnxLDOXtGUf1M0aoi2rHXcsqiprk8=
+1.3.0 |checksum:WvBDkaWSF5BQfafSa8uh4A6xfdH14pw1ulotrwbclLQ=
+1.3.1 |checksum:razSvxp+FytP9mb/gaw+kLs+XqxAeS22jEQwfNCGBLg=
+1.3.2 |checksum:xJTedVChRaKzNdKQgGPSBpuwBo2t00Zw6T+fV8sXCQI=
+1.3.3 |checksum:BHFEnefO8pmQsOVPYAMiINfke2Hbx/0acskEJKzHjtE=
+1.3.4 |checksum:DhBdyB3m1jPDh67M8qH5Jomb10D8RTaAs3urt3PUgfU=
+1.3.5 redcloth:>= 0|checksum:xundtfq9Y/4bVOkXhLe+1NMXV9wtBcorLOm3cDSf61I=
+1.3.6 RedCloth:>= 0|checksum:VvKqW61XZdX0H9kXFQFrmxLneEodE6GBdQzGh/kaaBs=
+1.3.7 RedCloth:>= 0|checksum:e1EbqEcTfc18DimhHC/uL2J7LymA3cYUpFdMfBBlEBo=
+1.4.0 RedCloth:>= 0,rinku:>= 0,tag_helper:>= 0|checksum:1H2nTXd0i9HjbpHrih2hxlppn+f8bkKdRA3XM6RXhpo=
+1.4.1 RedCloth:>= 0,rinku:>= 0,tag_helper:>= 0|checksum:xNO5bEfVsReZS0zIQsFh+cdJxeNTEdQ69E7X8upFv1U=
+1.4.2 redcarpet:>= 0,RedCloth:>= 0,rinku:>= 0,tag_helper:>= 0|checksum:DRO3XUbz/UUCoFKDsM3n7k85w/t25pKHxV5AYYqpdFQ=
+1.5.0 redcarpet:~> 2.0.0,rinku:~> 1.5.0|checksum:P/zEbcFJlkckPP7IJPTPQl2Mlq6hs4pTEra6Y9V9dcE=
+1.5.1 redcarpet:~> 2.0.0,rinku:~> 1.5.0|checksum:sp+g+Cf3LlzRHdEica51ANNCGqY86p+CkQLYfT9q2jk=
+1.5.2 redcarpet:~> 2.0.0,rinku:~> 1.5.0|checksum:eGLkYFt/xypGnWJ7rwyvzU+2YJIwTMhctYzoMw/YR5U=
+1.5.3 redcarpet:~> 2.0.0,rinku:~> 1.5.0|checksum:35o0LAvcMQmdOzcJVe+UmcT5dafq2QazE0otMyPJrok=
+1.6.0 redcarpet:~> 2.0,rinku:~> 1.5.0|checksum:v6lB58+bdNlhN/YlkeAFyiphho+avoizV69vemTyGV0=
+1.6.1 redcarpet:~> 2.0,rinku:~> 1.5.0|checksum:3AVBhYQ7PAdeiMF12HF6cN2/Va9Zp20+s/MNCk994/Y=
+1.6.2 redcarpet:~> 3.1,rinku:~> 1.5.0|checksum:smN9exH2db2O2VLGNTpHK4NCxfp51WK0+M6fxmesw/4=
+1.5.1.1 redcarpet:~> 2.0.0,rinku:~> 1.5.0|checksum:cCdkOVveDMmaCt2UcOwvZGgIjbcBb+qPRjSjsaF8jdE=
+1.6.3 redcarpet:~> 3.1,rinku:~> 1.5.0|checksum:vHiYhIaDBlJkQeRFFFIuqnAv2PfhomMt0ohpsQfQje0=,ruby:>= 0
+1.6.4 redcarpet:~> 3.1,rinku:~> 1.5.0|checksum:ho3CDItMD5DhciE/TI3vcauRdTFXmFGBBUS1AQujf+0=,ruby:>= 0
+2.0.0 gemoji:~> 2.1,redcarpet:~> 3.3,rinku:~> 1.7,tag_helper:~> 0.5|checksum:

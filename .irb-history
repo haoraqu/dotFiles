@@ -1,0 +1,12 @@
+t = get_table'Growingtree_member'
+t.deleteAll 'RAQUELSIMACLOCAL-000000003'
+t.deleteall 'RAQUELSIMACLOCAL-000000003'
+t.deleteall 'r1'
+t.deleteall ‘r1’, ‘c1’
+t=get_table'Growingtree_member'
+t=get_table 'GROWINGTREE__ACTIVITY'
+t.scan
+exit
+list
+act = get_table 'GROWINGTREE.ACTIVITY'
+act.scan

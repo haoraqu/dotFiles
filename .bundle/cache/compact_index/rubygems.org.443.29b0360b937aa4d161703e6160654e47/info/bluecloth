@@ -1,0 +1,35 @@
+---
+2.0.5 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,rdoc:>= 2.4.3,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:1R6HNuRUBX1j6XnHnhkHz1v4gm3QhTBD9nz199AteAE=
+2.0.5-x86-mingw32 |checksum:1R6HNuRUBX1j6XnHnhkHz1v4gm3QhTBD9nz199AteAE=
+2.0.4 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:E13ncxsZ8RDy8xHVJVqnyoNFEeGttvWqMGOzhJD+VTA=
+2.0.3 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:DbtfIIgrhuaiWvAzlB8qvFzhD6Nh+EATe11uA4F/sd8=
+2.0.2 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:GiIWyXE32aKxgxRjd2ARkCJOLbSBeRWwS7TS90PP0u4=
+2.0.1 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:FMPDQ1r3qEGseLMJuUVMoYpNdjhDzS+4X+hqhR4yMxg=
+2.0.0 amatch:>= 0.2.3,libxml-ruby:>= 0.8.3,rake:>= 0.8.1,rcodetools:>= 0.7.0.0,rcov:>= 0,RedCloth:>= 4.0.3,rspec:>= 0,rubyforge:>= 0,termios:>= 0,text-format:>= 1.0.0,tmail:>= 1.2.3.1,ultraviolet:>= 0.10.2|checksum:GXYPzAM3bQ6L/ZU6QD2BmunPYgWVhyBO/sdzuFwLQlc=
+2.0.6.pre120 |checksum:/vBIsNv2kDQsJNjUEJKJ4UsDitS4lb1SCQxZIj8GNPU=
+2.0.6.pre120-x86-mingw32 |checksum:/vBIsNv2kDQsJNjUEJKJ4UsDitS4lb1SCQxZIj8GNPU=
+2.0.6.pre120-x86-mswin32 |checksum:/vBIsNv2kDQsJNjUEJKJ4UsDitS4lb1SCQxZIj8GNPU=
+2.0.6.pre122 |checksum:2Ttyhi623I2FN0BubS96tBJvOf7NLZF/UKKoPODEKAQ=
+2.0.6.pre122-x86-mingw32 |checksum:2Ttyhi623I2FN0BubS96tBJvOf7NLZF/UKKoPODEKAQ=
+2.0.6.pre122-x86-mswin32 |checksum:2Ttyhi623I2FN0BubS96tBJvOf7NLZF/UKKoPODEKAQ=
+2.0.6 |checksum:ZMDEakb9vXOrV45oMHlMxUShtnk+jdEcsud8DyuSRpg=
+2.0.6-x86-mingw32 |checksum:ZMDEakb9vXOrV45oMHlMxUShtnk+jdEcsud8DyuSRpg=
+2.0.6-x86-mswin32 |checksum:ZMDEakb9vXOrV45oMHlMxUShtnk+jdEcsud8DyuSRpg=
+2.0.7.pre126 |checksum:JwOqaa0ayJT4Ukz7EuaGdfh92k7bg37fio5UtVPMpXQ=
+2.0.7.pre126-x86-mingw32 |checksum:JwOqaa0ayJT4Ukz7EuaGdfh92k7bg37fio5UtVPMpXQ=
+2.0.7.pre126-x86-mswin32 |checksum:JwOqaa0ayJT4Ukz7EuaGdfh92k7bg37fio5UtVPMpXQ=
+2.0.7 |checksum:BQA9GEPMEg2Uj+AAI1M5FP29Rv6coPXt+XHdINk2aH8=
+2.0.7-x86-mingw32 |checksum:BQA9GEPMEg2Uj+AAI1M5FP29Rv6coPXt+XHdINk2aH8=
+2.0.7-x86-mswin32 |checksum:BQA9GEPMEg2Uj+AAI1M5FP29Rv6coPXt+XHdINk2aH8=
+2.0.9 |checksum:UTjeTwWkBsH3W34dkPHVZyUlyLZyryMjxDLtBloyjEA=
+2.0.10 |checksum:uFIL/p/otJzxQ/hlw5eJ7VZkD5gAk0lxyJNF0a7zpZI=
+2.0.11pre158 |checksum:WuZc98hdUlLpa+Ag5+loY/AugrVUdvinehl5vPH4ZK4=
+2.0.11pre158-x86-mingw32 |checksum:WuZc98hdUlLpa+Ag5+loY/AugrVUdvinehl5vPH4ZK4=
+2.0.11pre158-x86-mswin32 |checksum:WuZc98hdUlLpa+Ag5+loY/AugrVUdvinehl5vPH4ZK4=
+2.0.11 |checksum:J81djIBWv9bKS4tFaDv6tW2QubTVpV3Mtv0m52nkYQg=
+2.0.11-x86-mingw32 |checksum:J81djIBWv9bKS4tFaDv6tW2QubTVpV3Mtv0m52nkYQg=
+2.0.11-x86-mswin32 |checksum:J81djIBWv9bKS4tFaDv6tW2QubTVpV3Mtv0m52nkYQg=
+2.1.0 |checksum:UgfuNXVRpz7ai44FPXlW0RThXskSU6i/p3BhrdaoJh8=
+2.1.0-x86-mingw32 |checksum:UgfuNXVRpz7ai44FPXlW0RThXskSU6i/p3BhrdaoJh8=
+2.1.0-x86-mswin32 |checksum:UgfuNXVRpz7ai44FPXlW0RThXskSU6i/p3BhrdaoJh8=
+2.2.0 |checksum:swEoQz9qg5CbDLUsPgAe4ALKh2DZtDPsxc7TCPfnA/k=

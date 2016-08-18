@@ -1,0 +1,4 @@
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"

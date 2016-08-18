@@ -1,0 +1,7 @@
+---
+0.2.0 grocer:>= 0,rubyzip:>= 0|checksum:ffTwjBIKIy3/NUmc7OvX8YIn88wycx6ceAGtE/w47UY=
+0.2.1 grocer:>= 0,rubyzip:>= 0|checksum:BPBGgNnQaJAuA5OLHSYrDuZEpkzMETBk4PRHHODPm28=
+0.3.1 commander:>= 0,grocer:>= 0,rubyzip:~> 1.0.0,terminal-table:>= 0|checksum:Y8KxikdEK5rfTMSsv2K066yLU9sHj2F5cfYtOAwul/0=
+0.4.0 commander:>= 0,grocer:>= 0,rubyzip:~> 1.0.0,terminal-table:>= 0|checksum:6AeYZJx6BzP+AEhfaS1G/H6tppZnVvVfD2isQqEUvhE=,ruby:>= 0
+0.4.1 commander:>= 0,grocer:>= 0,rubyzip:>= 1.0.0,terminal-table:>= 0|checksum:tPa6Q0Ry+bOQFYGbbuR/QCIECiLFeuJol2LM3Wguqwg=,ruby:>= 0
+0.4.2 commander:>= 0,grocer:>= 0,rubyzip:>= 1.0.0,terminal-table:>= 0|checksum:e6636407f4a6d915c1097301ccf7f06c2527110b0e149084982eaa8b4e104066,ruby:>= 0,rubygems:>= 0

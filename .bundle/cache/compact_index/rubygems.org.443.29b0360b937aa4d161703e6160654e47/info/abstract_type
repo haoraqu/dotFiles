@@ -1,0 +1,8 @@
+---
+0.0.1 |checksum:bIXRWFNKWczmR1Y2Sj0v70D4sXVN0F22ErWKd9p50JY=
+0.0.2 |checksum:z390BGqy003MqQYmOMDKqpuoIo+3b+yyPrrl0Bfw47s=
+0.0.3 backports:~> 2.8.2|checksum:4NzX6nr4DmFlHgHbGvAQ5HHjmFFtfn0jOE7BvzMwe1k=
+0.0.4 backports:~> 2.8.2|checksum:/5CwCBgoctPJQE9HYQrvW7NtKsnLTFcqMdzgzaxXeaA=
+0.0.5 backports:>= 3.0.3&~> 3.0|checksum:qpEGk7ezYAvYAHuPLa1Nhzdz/LD9P4yQP9Cj7taDWC8=
+0.0.6 |checksum:y/e/lBV6V7opfTAbgEQQ03iaHkwWwiavoj/uy7TfziY=
+0.0.7 |checksum:JLgraMzS9RJtUXu2h0eFjZmtBXr/J9mgq1ywDCsDYyQ=

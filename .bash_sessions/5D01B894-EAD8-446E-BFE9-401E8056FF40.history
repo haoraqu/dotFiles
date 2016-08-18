@@ -1,0 +1,32 @@
+cd
+cd Documents/StellarProjects/app/
+./sbt hbaseShell
+./sbt hbaseShell
+./sbt hbaseShell
+git branch
+./sbt compile
+./sbt clean compile
+./sbt clean compile
+./sbt clean compile
+./sbt clean compile
+./sbt clean compile
+./sbt clean compile
+./sbt clean compile
+./sbt clean compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt clean localFinagle
+./sbt compile
+cd ../rails_app/
+mysql.server start

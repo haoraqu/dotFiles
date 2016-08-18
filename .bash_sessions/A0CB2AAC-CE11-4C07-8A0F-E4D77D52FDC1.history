@@ -1,0 +1,503 @@
+rvm gemset
+rvm gemset list
+rake db:create
+gem uninstall siphon
+bundle install
+gem list | grep siphon
+gem list
+rvm list
+bundle
+gem install bundler
+brew install openssl libxml2
+bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
+bundle config build.thrift --with-cppflags=\"-D_FORTIFY_SOURCE=0 -Wno-shift-negative-value\"
+bundle config build.nokogiri --use-system-libraries=true --with-xml2-include=$(brew --prefix libxml2)/include/libxml2
+bundle install
+mysql.server start
+rake db:create
+gem list | grep siphon
+rvm gemset rename ls-member ls-member-old
+rvm gemset list
+rvm gemset rename ls-member2 ls-member
+rake db:create
+rvm gemset list
+bundle exec rake db:create
+rvm gemset list
+gem  list
+vim Gemfile.lock
+rvm
+rvm list
+vim .ruby-version 
+rvm list
+rvm gemset list
+rake db:migrate
+cd ..
+cd rails_app/
+rake db:migrate
+vim Gemfile
+git status
+git diff Gemfile.lock
+git st
+git status
+git diff
+git diff config/
+git st
+git status
+git co Gemfile.lock
+git checkout Gemfile.lock
+vim .git/config
+vim .git/config
+git st
+bundle install
+git st
+bundle install
+vim Gemfile.lock
+vim Gemfile
+vim Gemfile.lock
+git st
+git sst
+git st
+rvm gemset create test
+rvm gemset use test
+rvm list
+rvm gemset list
+bundle install
+gem install bundler
+bundle install
+bundle install
+rake db:create
+nokogiri -v
+vim Gemfile
+vim Gemfile
+history
+history | grep bundle
+./sbt createSchema
+cd ../app
+./sbt createSchema
+./sbt createSchema
+mysql.server start
+FINAGLE_URL=localhost:9080 rails server -p 8080
+rvm gemset list
+rvm gemset list
+redis-server /usr/local/etc/redis.conf
+pa ux | grep mysql
+ps aux | grep mysql
+ps aux | grep mysql
+rvm gemset list
+rake db:create
+git status
+git fetch
+rake db:create
+mysql.server start
+redis-server /usr/local/etc/redis.conf
+gem list
+rvm gemset list
+cd Documents/StellarProjects/rails_app/
+rvm gemset list
+cd ../app
+./sbt localFinagle
+./sbt compile
+brew install postman
+jps
+./sbt startHbase
+cd Documents/StellarProjects/app/
+$./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+cd ../rails_app/
+$./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+cd ..
+cd app
+$./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt compile
+$./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+./sbt compile
+./sbt compile
+./sbt stopHbase
+./sbt startHbase
+jps
+jps
+./sbt startHbase
+cd
+cd Documents/Projects/
+ls
+git clone git@github.com:playforscala/sample-applications.git
+git clone git@github.com:x3ro/scala-sbt-logback-example.git
+pwd
+ls
+git clone git@github.com:knoldus/LogbackWithScala.git
+cd Documents/StellarProjects/app/
+git branch
+git checkout master
+git branch
+git fetch
+git status
+git branch
+git checkout -b memberTier
+git branch
+git status
+git diff rule_engine/src/main/scala/com/stellarloyalty/ruleengine/metadata/SLTiers.scala
+git add rule_engine/src/main/scala/com/stellarloyalty/ruleengine/metadata/SLTiers.scala
+git branch
+git status
+git commit -m "return default tier for members without activities"
+git push -u origin memberTier
+git branch
+git checkout -b siftedlogging
+git branch
+ps ax | grep mysql2
+ps ax | grep mysql
+ps ax | grep mysqld
+kill -9 64098
+kill -9 64196
+mysql.server start
+redis-server /usr/local/etc/redis.conf
+redis-server /usr/local/etc/redis.conf
+cd Documents/StellarProjects/rails_app/
+git status
+git checkout *
+git status
+git checkout *
+git status
+git checkout *
+git status
+git co Gemfile
+git status
+git co Gemfile.lock
+git co config/*
+git status
+git co db/schema.rb
+git branch
+git fetch
+rvm gemset list
+rvm gemset create test2
+rvm gemset use test2
+rvm gemset list
+gem list
+gem install -v 1.10.6 bundler
+brew install openssl libxml2
+bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
+bundle config build.thrift --with-cppflags=\"-D_FORTIFY_SOURCE=0 -Wno-shift-negative-value\"
+bundle config build.nokogiri --use-system-libraries=true --with-xml2-include=$(brew --prefix libxml2)/include/libxml2
+bundle install
+mysql.server start
+rvm gemset list
+rake db:create
+rvm gemset rename ls-member ls-member-orig0628
+rvm gemset rename test2 ls-member
+rake db:create
+rake db:drop
+rake db:create
+rake db:drop
+rake db:create
+rake db:drop
+gem list
+rake db:drop
+rvm gemset list
+gem uninstall mysql2
+brew install openssl libxml2
+bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
+bundle config build.thrift --with-cppflags=\"-D_FORTIFY_SOURCE=0 -Wno-shift-negative-value\"
+bundle config build.nokogiri --use-system-libraries=true --with-xml2-include=$(brew --prefix libxml2)/include/libxml2
+bundle install
+rake db:create
+rake db:drop
+brew install mysql56
+gem install nokogiri -- --with-xml2-include=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/libxml2 --use-system-libraries
+rake db:drop
+rake db:create
+rake db:schema:load
+rake db:seed
+rails server -p 8080
+git status
+git checkout -- .
+git stat
+git status
+rm *.bak
+git status
+git pull
+rake db:migrate
+bundle install
+bundle -v
+git status
+bundle install
+bundle -v
+mysql.server start
+rake db:migrate
+FINAGLE_URL=localhost:9080 rails server -p 8080
+./sbt hbaseShell
+table t = Growingtree_member
+./sbt hbaseShell
+./sbt hbaseShell
+jps
+jps
+./sbt startHbase
+./sbt startHbase
+./sbt startHbase
+jps
+./sbt startHbase
+jps
+cd ../rails_app
+ls
+cd ../app
+./sbt compile
+./sbt compile
+./sbt clean compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+git status
+./sbt compile
+git diff rule_engine/src/main/scala/com/stellarloyalty/ruleengine/metadata/SLTiers.scala
+git diff
+git branch
+git diff 
+git status
+git branch
+git status
+git diff
+./sbt compile
+./sbt compile -Xlint:unchecked
+pwd
+cd Documents/StellarProjects/
+pwd
+cd ../Projects/
+ls
+cd scala-sbt-logback-example
+ls
+./sbt compile
+cd ../rails_app/
+git pull
+git stash db/schema.rb
+git stash
+git pull
+./sbt compile
+bundle install
+rake db:create
+rake db:migrate
+rake db:seed
+./sbt compile
+rake db:seed
+FINAGLE_URL=localhost:9080 rails server -p 8080
+FINAGLE_URL=localhost:9080 rails server -p 8080
+FINAGLE_URL=localhost:9080 rails server -p 8080
+rake db:seed
+FINAGLE_URL=localhost:9080 rails server -p 8080
+cd Documents/StellarProjects/rails_app/
+mysql.server start
+redis-server /usr/local/etc/redis.conf
+bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
+bundle config build.thrift --with-cppflags=\"-D_FORTIFY_SOURCE=0 -Wno-shift-negative-value\"
+bundle config build.nokogiri --use-system-libraries=true --with-xml2-include=$(brew --prefix libxml2)/include/libxml2
+bundle install
+mysql.server start
+redis-server /usr/local/etc/redis.conf
+cd ../app/
+./sbt compile
+./sbt compile
+git branch
+git co siftedlogging
+git checkout siftedlogging
+./sbt compile
+./sbt compile
+git fetch
+./sbt compile
+./sbt compile
+./sbt compile
+./sbt compile
+git branch
+git status
+git status
+git status
+pwd
+cd project/
+cd local-dev/
+ls -a
+cd resources
+ls -a
+pwd
+cd Documents/StellarProjects/
+cd app
+git branch
+git checkout memberTier
+git diff
+git fetch
+ls -a
+cd
+pwd
+cd ../..
+ls -a
+cd tmp
+ls
+vi test.log
+ls -la
+pwd
+cd
+cd Documents/StellarProjects/app/
+git branch
+./sbt localFinagle
+./sbt localFinagle
+./sbt localFinagle
+finagle --v
+FINAGLE_URL=localhost:9080 rails server -p 8080
+cd Documents/StellarProjects/rails_app/
+mysql.server start
+redis-server /usr/local/etc/redis.conf
+rake db:seed
+jps
+jps
+jps
+cd ../app
+./sbt startHbase
+jps
+jps
+cd ../app
+./sbt startHbase
+jps
+jps
+./sbt startHbase
+pwd
+cd
+cd Documents/
+cd tmp
+pwd
+pwd
+cd Documents/StellarProjects/app/
+./sbt compile
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+lsof -n -i:9080 | grep LISTEN
+kill -9 45036
+lsof -n -i:9080 | grep LISTEN
+git branch
+git fetch
+git status
+git branch
+git diff rule_engine/src/main/scala/com/stellarloyalty/ruleengine/metadata/SLTiers.scala
+git checkout master
+git branch
+git checkout rule_engine/src/main/scala/com/stellarloyalty/ruleengine/metadata/SLTiers.scala
+git branch
+giti status
+git status
+git checkout services/src/test/scala/com/stellarloyalty/services/BigDataServicesConsoleClient.scala
+git checkout services/src/test/scala/com/stellarloyalty/services/BigDataServicesTestsuite.scala
+git status
+git checkout master
+git fetch
+git branch
+git status
+git merge
+git fetch
+git branch
+git checkout -b corelogging
+git branch
+git status
+cd Documents/StellarProjects/app/
+git status
+cd core/src/main/resources/com/stellarloyalty/core/utils/
+ls
+git branch -a --merged
+cd Documents/StellarProjects/app/
+git branch -a --merged
+git push --delete membersummary
+git push origin --delete membersummary
+git branch -a --merged
+cd /Users/admin/.local/cache
+cd
+cd /Users/admin/.local/cache
+pwd
+cd ../admin/.local/cache
+cd ..
+pwd
+cd admin/.local/cache
+pwd
+ls
+pwd
+cd ..
+cd 
+cd Documents/StellarProjects/app/
+git branch -a --merged
+git checkout membersummary
+git branch
+git --version
+git push origin --delete membersummary
+git branch -D membersummary
+git branch
+git branch -a --merged
+git status
+pwd
+cd ..
+ls
+cd rhao1
+ls
+cd .local
+ls
+cd opt
+ls
+cd ~/.local/cache
+pwd
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6.tgz
+ls
+cd ~/.local/opt
+ls
+rm -rf spark-jobserver-0.6.2
+ls
+cd ~/.local/cache
+ls
+cd ~/.local/var/
+ls
+rm -rf spark-jobserver-0.6.2
+ls
+cd ~/Documents/StellarProjects/app/
+./sbt startSjs
+cd ~/.local/cache
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6.tgz
+ls
+cd ~/.local/opt
+ls
+rm -rf spark-jobserver-0.6.2
+cd ~/.local/var/
+ls
+rm -rf spark-jobserver-0.6.2
+cd Documents/Projects/
+cd scala-sbt-logback-example/
+./sbt compile
+cd Documents/StellarProjects/app/
+git branch
+git push origin --delete memberTier

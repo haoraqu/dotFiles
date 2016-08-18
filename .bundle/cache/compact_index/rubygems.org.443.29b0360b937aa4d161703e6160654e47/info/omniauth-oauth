@@ -1,0 +1,8 @@
+---
+1.0.0.pr2 oauth:>= 0,omniauth:~> 1.0.0.pr2|checksum:WFNQQgI6/NNEIimlOPmuFO7EKrE77g9+HwwG7YAGTSI=,rubygems:> 1.3.1
+1.0.0.beta1 oauth:>= 0,omniauth:~> 1.0.0.beta1|checksum:Dgqcg6DONbKju14wfdBcxIuBxurIcRyTer0vOq0LwWg=,rubygems:> 1.3.1
+1.0.0.rc1 oauth:>= 0,omniauth:~> 1.0.0.beta1|checksum:8Tejevdy4zB41XxTocAysmtGXzNXPx6mMuQoSop/O7U=,rubygems:> 1.3.1
+1.0.0.rc2 oauth:>= 0,omniauth:~> 1.0.0.rc2|checksum:KS3i0cNdd1r8jUggGfV1RC05PId3jTrcZZECnaphRH8=,rubygems:> 1.3.1
+1.0.0 oauth:>= 0,omniauth:~> 1.0|checksum:kiPP7wNupXYRj5XC2wDJQJxa4D6GdSzMho7z3+73DdU=
+1.0.1 oauth:>= 0,omniauth:~> 1.0|checksum:nxv7MP5rqCOTUzDSA24IpUBumA8eIMmxJxuC7jT751k=
+1.1.0 oauth:>= 0,omniauth:~> 1.0|checksum:Z4CPiRwraWEJDXw9wi9XxeeXleCZrtQSYH7C4xeZu9g=,ruby:>= 0

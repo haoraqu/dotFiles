@@ -1,0 +1,5 @@
+---
+0.0.1 activerecord:>= 3.0,activesupport:~> 3.0,awesome_nested_set:>= 2.0|checksum:X9RzEqULvkicfNFRiO7HGYTwRDaJ/yrYChIIyJXt10M=
+0.0.3 awesome_nested_set:>= 2.0|checksum:4yISm0gp4CbasnwgP+REAr30UpnI9FIakgRtssZVcsk=
+0.0.5 awesome_nested_set:>= 2.0|checksum:syb53bYGTjzoa2PFHRyI9X0bdJqAdUJsCxV7qazMCMI=
+0.1.0 awesome_nested_set:>= 2.0|checksum:KP5zxj4dGzBAgxCuSlm3e4Hnfng0VS6xG4CHMs/0PBY=

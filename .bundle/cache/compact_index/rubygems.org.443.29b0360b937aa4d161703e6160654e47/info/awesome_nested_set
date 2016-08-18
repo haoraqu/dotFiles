@@ -1,0 +1,27 @@
+---
+1.4.1 activerecord:>= 1.1|checksum:hEWAHJWP5gjbGqZ5PveLHcJ2FOQe+ackxXE62o7KOHM=
+1.4.3 activerecord:>= 1.1|checksum:lGbij3bm/Y1q4laHCwY0MmQ+Gumn1V4/JdDR7dyqVKQ=
+1.4.2 activerecord:>= 1.1|checksum:yndOKKfK6L/P6StIp68IxD05GNZ7DUF4kO3mHGrIlpM=
+2.0.0 activerecord:>= 3.0.0|checksum:tfQFxY2m2vgIyW7Rf9jQYP9A56WNDkUn4ERPskLOv7I=
+1.4.4 activerecord:>= 1.1|checksum:ID7/phxaqHOPT4HJ3JGk1tUA7kY/S5mDNA/oY4/nQ7w=
+2.0.1 activerecord:>= 3.0.0|checksum:U6ScRDvOqplF6oyLyGU1FpvvNoqeLUr5s6NAKrdeSiQ=
+2.0.2 activerecord:>= 3.0.0|checksum:TSfeFH7NQRqB7FTMP5DYqxlQMjW9XnrfuXxjNzcwyM4=
+2.1.0 activerecord:>= 3.0.0|checksum:cXpu3ROg1irY4Fd3jfn93G8wNepqIHI+Qx7OPS6tzGU=
+2.1.1 activerecord:>= 3.0.0|checksum:Q7zx1yo7mbLuu1MqeKdi2vF0xdP+orQSL7wzP0aj+sk=
+2.1.2 activerecord:>= 3.0.0|checksum:hwaKsXm4RVYNMsdgKdoHs7ZkLVq5CbbaKk21bu+ZEFk=
+2.1.3 activerecord:>= 3.0.0|checksum:iZ7VKab4nd206JlgMzlsGGG0RjJwp0reDmvyJRZjbTU=
+2.1.4 activerecord:>= 3.0.0|checksum:EUeOeECSSEERrhmeAGLozE8OvvpYn+Njt+UHw5GNGMQ=
+2.1.5 activerecord:>= 3.0.0|checksum:w8YwaXyRySu1xR37AZIvrRfDylmVlCHIPSi9dNqehtc=
+2.1.6 activerecord:>= 3.0.0|checksum:Dc2AGupQSPWrkHtitBdLZ2Oxkeqk4eEbuD+ZbwE0mvg=
+3.0.0.rc.1 activerecord:~> 4.0.0|checksum:cNfQHaJWCRZXNj3jGXpV5H1UBW114l9xHcd96PhQkSg=,rubygems:> 1.3.1
+3.0.0.rc.2 activerecord:~> 4.0.0|checksum:oba+UngY0vA0u/96vCUJpxD7p+Egg8ahaD2691fPAac=,rubygems:> 1.3.1
+3.0.0.rc.3 activerecord:< 5&>= 4.0.0|checksum:O7xW6hD8mQAhNRk1t9Q/cCjSqpqX/1cXvORDJqFyBC0=,rubygems:> 1.3.1
+3.0.0.rc.4 activerecord:< 5&>= 4.0.0|checksum:AHacbJM1tcCjImwnVGyevPM2CBgouuvRXxHtXSjshjI=,ruby:>= 0,rubygems:> 1.3.1
+3.0.0.rc.5 activerecord:< 5&>= 4.0.0|checksum:EgeVUTgsur81Itw2VTT/QG8pZrlJhZyN/K0eTkUQlpo=,ruby:>= 0,rubygems:> 1.3.1
+3.0.0.rc.6 activerecord:< 5&>= 4.0.0|checksum:/leTzJowiFYFGh2+0JZVDFGDe1BhjvcSQcfQeg9XCDU=,ruby:>= 0,rubygems:> 1.3.1
+3.0.0 activerecord:< 5&>= 4.0.0|checksum:XB4olleo7sn0lrgePHPlaooFZxFyhob0W6CxoBMg9j0=,ruby:>= 0
+3.0.1 activerecord:< 5&>= 4.0.0|checksum:dCMSzwqi+UpkLbHmJ5mA4CmenrTsESJINahlfLYhJBY=,ruby:>= 0
+3.0.2 activerecord:< 5&>= 4.0.0|checksum:z7mgkpixK36gc596gQ2MtX8d8LcmJql4+XWiRgkjyMQ=,ruby:>= 0
+3.0.3 activerecord:< 5&>= 4.0.0|checksum:8a7ca3f1387cfa059279a3973bad4df11b8d09eb2cdd94828717ab6112ad2ec2,ruby:>= 1.9.3,rubygems:>= 0
+3.1.0 activerecord:< 5.1&>= 4.0.0|checksum:b3b04acd9d4093de8d39964940a1fc5b7fa353827e25eb9bc25be0ba7d86e50e,ruby:>= 2.0.0,rubygems:>= 0
+3.1.1 activerecord:< 5.1&>= 4.0.0|checksum:1c6edd117f700ed6bd6865963cd3f5f00a9cc0fad95f011270cd38e446f8276e,ruby:>= 2.0.0,rubygems:>= 0

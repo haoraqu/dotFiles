@@ -1,0 +1,8 @@
+---
+0.10.0 oniguruma:>= 1.1.0,plist:>= 3.0.0|checksum:yEF+Ru4J8Ztv65wJVWXyMpPDyAqHK0oxOM++rm8FdsM=,rubygems:
+0.10.1 oniguruma:>= 1.1.0,plist:>= 3.0.0|checksum:tGkq6pJh3sy/qzwv4r68N4d6A9pgAAvbf0d5ZviXcck=
+0.9.0 oniguruma:>= 1.1.0,plist:>= 3.0.0|checksum:olB7Yj7N9DM7IwLGEZMKAE9ddkVHHnjzVV+73qBlKNM=,rubygems:
+0.9.1 oniguruma:>= 1.1.0,plist:>= 3.0.0|checksum:mR9wca2IqQ9c77YqTUkE6YjbWXy7C+wSuCq/XyItkqM=,rubygems:
+1.3.0 plist:>= 3.0.1|checksum:GXHAIVzwQmxHwM6sX3rxpnQUg4Uve391v3KnOGlqLw8=
+1.3.1 plist:>= 3.0.1|checksum:cGvzpuRA2q8G21MkOAUUNHRzNWUaGfTLK4jLAh2MBNM=
+1.4.0 plist:>= 3.0.1|checksum:Ybe212HUwyVxYPcwQPspwOl/mstMQaKrTzx38tTDGeE=,ruby:>= 1.9.3

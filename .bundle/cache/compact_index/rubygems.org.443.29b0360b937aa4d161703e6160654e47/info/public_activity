@@ -1,0 +1,30 @@
+---
+0.1 activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:EVVpKDFZrUdaVHloETd8Q+EzxjBcLlmTIBqJ7SOFVWQ=
+0.1.1 activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:0R72o9xWcZjQLcfK/cUMky0syDsXtdxHnH9BbDStoTs=
+0.2 activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:L5DEK7iueSKYQ8+kcca6HBZSPt5uIA2btcplvAF5Jws=
+0.2.5 activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:s/qNi0gCSGlAcJ58Ijqn5Bc3GiO/e764M5ZtcUduWDA=
+0.3 activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:nVG/iMghAVCHaq2nJv1ZQXyB/tZJd1eisku5ZCQ6FbU=
+0.3.1 activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:o408r14KcZnvzQHMkhK5gFjQDeoKVEU6l5uR1G6T9qI=
+0.3.2 activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0,pusher:>= 0|checksum:Hdijn7GGKLgSbuDWPKdxjdBbqwuB+rHFwTnvKf56mw8=
+0.3.3 activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0,pusher:>= 0|checksum:oew8BvnMJ8QunO4LQY8QumzDSwkU7ShNE4z3bGj2HmM=
+0.3.4 activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0,pusher:>= 0|checksum:xY/JNkkYEyjJirWpBmnCOsQSKDY/P0BE0KIiYZgzjtY=
+0.4.0.rc1 actionpack:>= 3.0.0,activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:EaRMfs4yekj9XsqKWuleLbnCe1DmH+pKPEO4VdlfRG4=,rubygems:> 1.3.1
+0.4.0.rc2 actionpack:>= 3.0.0,activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:kwRudgGqWddexBSn8ITT+BGRpldMldffvhJEWBpOkG0=,rubygems:> 1.3.1
+0.4.0 actionpack:>= 3.0.0,activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:4bM7a+4/A4lA9BxkxLrzzRCEKNqP1nO7S12ucmFDvAg=
+0.4.1 actionpack:>= 3.0.0,activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:xZSqN1ddd1Bx3BhsxZeXetsFr72FQYGiTzyr9/I/OvQ=
+0.5.0 actionpack:>= 3.0.0,activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:r5O4GrXrDkttiWdNUvazscid5zrWbXsLrk5iyNLEH7U=
+0.5.1 actionpack:>= 3.0.0,activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:ybQuct9bn2Okgo8zTTLxHMzZGQtc2Vwgb1t/FWUdY08=
+0.5.1.1 actionpack:>= 3.0.0,activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:3cjLbjtqKTSAJwABO5yfEjCmYzz28gjuLKn1KrDUuIM=
+0.5.2 actionpack:>= 3.0.0,activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:NeOKRf3iJHvI8gRQT1P4DKplkD364EzqsvdH2gO6ND4=
+0.5.3 actionpack:>= 3.0.0,activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:yBJI96H/AkLA9TWj/3YYpCZPyfzNVAD+XA/bHNqiNZE=
+0.5.4 actionpack:>= 3.0.0,activerecord:>= 3.0.0,activesupport:>= 3.0.0,i18n:>= 0.5.0|checksum:7468mvRtoZVxzQat4tM95bhhyyZ9yur95/DKUUutP5o=
+1.0.0 actionpack:~> 3.0,activesupport:~> 3.0,i18n:>= 0.5.0,railties:~> 3.0|checksum:EzUjIyQSen7x0TSiz5H0/hOXyoNV/kArepeHJBugRxg=
+1.0.1 actionpack:~> 3.0,activesupport:~> 3.0,i18n:>= 0.5.0,railties:~> 3.0|checksum:830Oapp/PJ5xS4oTaSttx9RCvmtNVIQN81vv/3Piq7w=
+1.0.2 actionpack:~> 3.0,activesupport:~> 3.0,i18n:>= 0.5.0,railties:~> 3.0|checksum:9V0IFYmf7rtqHrqYluYrnNPbNjUDL3IA8Fr6ZCHjr04=
+1.0.3 actionpack:~> 3.0,activesupport:~> 3.0,i18n:>= 0.5.0,railties:~> 3.0|checksum:jTIcVFte2eyGMKPEwDitL3CqBISWpPu/Tpf2MUFgPCg=
+1.1.0 actionpack:~> 3.0,activesupport:~> 3.0,i18n:>= 0.5.0,railties:~> 3.0|checksum:wBnJb1L8Gh+uXXKqywwHQasn6iXdSZyffMTUMT6HLr8=
+1.4.0 actionpack:>= 3.0.0,activerecord:>= 3.0,i18n:>= 0.5.0,railties:>= 3.0.0|checksum:KBLUMxd4Fe3Du9o2bFVxj0FvyxIgL9Z3wSlP69VyfAo=
+1.4.1 actionpack:>= 3.0.0,activerecord:>= 3.0,i18n:>= 0.5.0,railties:>= 3.0.0|checksum:rlJsA09w476lzdBWCsqHA9YyQcaqAMI2duE43LaKWQQ=
+1.4.2 actionpack:>= 3.0.0,activerecord:>= 3.0,i18n:>= 0.5.0,railties:>= 3.0.0|checksum:DF6Tkl2zj/220YUhkwo6Ubn44SEhUAj59S2Kmw1K/h0=,ruby:>= 1.9.2
+1.4.3 actionpack:>= 3.0.0,activerecord:>= 3.0,i18n:>= 0.5.0,railties:>= 3.0.0|checksum:c45baf9e12eefc62d8236cdef8715da62f964a66b5a901c0c5126a748a5dc684,ruby:>= 1.9.2,rubygems:>= 0
+1.5.0 actionpack:>= 3.0.0,activerecord:>= 3.0,i18n:>= 0.5.0,railties:>= 3.0.0|checksum:9a25b84a0ddb1e9ec516832b81805623bebf27cb933a20ab4190ecf37ab7129c,ruby:>= 1.9.2,rubygems:>= 0

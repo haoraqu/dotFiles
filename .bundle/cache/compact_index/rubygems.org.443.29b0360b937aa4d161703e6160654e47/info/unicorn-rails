@@ -1,0 +1,9 @@
+---
+0.0.1 rack:>= 0,unicorn:>= 0|checksum:Et9xLhaLGNtFIKCrXU7CJmzJiiSn8KKtCfW1H6TofeI=
+1.0.0 rack:>= 0,unicorn:>= 0|checksum:G/QfDY7UjtE9ECRO8/a1u+UtpqJ2ip/YX4i0x7o0va8=
+1.0.1 rack:>= 0,unicorn:>= 0|checksum:qcCo/Tyf+jwM3Aimtko6bFWcDt+z6xV9swk+lSIonK8=
+1.1.0 rack:>= 0,unicorn:>= 0|checksum:ihuejFd8bwJoj66P+1++DoIi2QBjs1cvtwTQuUT5NvA=
+2.0.0 rack:>= 0,unicorn:>= 0|checksum:cJjWwtuTALktMGZrcJFP6mhWkfnGkie2TxroFtiYBN8=,ruby:>= 1.8.7
+2.1.0 rack:>= 0,unicorn:>= 0|checksum:MQ7eQanFT7pfFbUkX+urvRHZAYQBHRLC4ttVAtew8MY=,ruby:>= 1.8.7
+2.1.1 rack:>= 0,unicorn:>= 0|checksum:GqgUhVXxL5DiAY7SyP4byp+5AaxuSSh5t/FabJkSD18=,ruby:>= 1.8.7
+2.2.0 rack:>= 0,unicorn:>= 0|checksum:yQrtGW4rVuPIKpTsI0pX8XL8anPglJgATYwHkxuCJ1Y=,ruby:>= 1.8.7

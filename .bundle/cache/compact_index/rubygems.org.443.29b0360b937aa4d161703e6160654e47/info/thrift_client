@@ -1,0 +1,35 @@
+---
+0.1 thrift:>= 0|checksum:j3pFF5p4vX1X+ZxjkRriSbCNfbWY5CkWI25sMNriOo4=,rubygems:>= 0.8
+0.1.1 thrift:>= 0|checksum:bfvp+CZ/wAa9LUQFMsVM6H3N++f4P4NSO/ocPdSsLVk=,rubygems:>= 0.8
+0.1.2 thrift:>= 0|checksum:9RZHUhxF4k/7U+aGzHIsEb51Wa8o3vJRhAnUBXH70cY=,rubygems:>= 0.8
+0.1.3 thrift:>= 0|checksum:M9Asru7IF7XxHdRGfzQcQL4D5R6a3+TXqNCalHnMqto=,rubygems:>= 0.8
+0.2.1 thrift:>= 0|checksum:jsyDNCoIfkYWVfMU21uq5Yr5rJymuQhpqOyMx20l0j8=,rubygems:>= 0.8
+0.2.2 thrift:>= 0|checksum:DZt2UjPlzcTf9sr+vL7olvcrC9+0iHD9IzMrpezJ1iA=,rubygems:>= 0.8
+0.3 thrift:>= 0|checksum:5ru/ehofhz0AUjFCtXMvnbHF3HeZybGZA81ZBNJam0g=,rubygems:>= 0.8
+0.3.1 thrift:>= 0|checksum:7Jn3OyhAGQ6VkOamK7W0rduHx+fIwhMpfS+EfBzJIrs=,rubygems:>= 0.8
+0.3.2 thrift:>= 0|checksum:axOxB2W5GK43nynQEwbbWgcKVDt7JmzUr/nqSdYxeZY=,rubygems:>= 0.8
+0.3.3 thrift:>= 0|checksum:DCfT4rNwhsOw8uVJMc+mqFdSebUVF9+M1MgYyP4NZrg=,rubygems:>= 0.8
+0.4.0 thrift:>= 0|checksum:VX209M68uuXIfcTKEkrxhUF63e0PHsuwUueXPem/TVo=,rubygems:>= 0.8
+0.4.1 thrift:>= 0|checksum:RzGSF/Xy+BMERKukN8Dr7J5slt04jRTTWhDAChh66Qo=,rubygems:>= 0.8
+0.4.2 thrift:>= 0|checksum:X0iIbvTbZmrtvyhxMdxMQCit0U2k1lnmTeJ7wZcM6GY=,rubygems:>= 0.8
+0.4.3 thrift:>= 0|checksum:BofO4pt8klIflXLwp7t+gUz/WttVTRup77GzIpYynN4=,rubygems:>= 0.8
+0.4.4 thrift:>= 0|checksum:SkGafBWK0fmFpyNObu+oiqRIcDAPa7izVHJ36O//LIo=,rubygems:>= 0.8
+0.4.5 thrift:>= 0|checksum:bwABUUHCy1RGVvb4xBeLynslRwE7oplYHHg7bzIiIC0=,rubygems:>= 0.8
+0.4.6 thrift:>= 0|checksum:ZRfV5kiu+TETRfYiJy+PBe7DcApBMuQOiTgdsZXOvpg=,rubygems:>= 0.8
+0.4.7 thrift:~> 0.2.0|checksum:jJFObV+vJ+RNtABSKL90sTpkjr21tAjXaAnqIxD3ne0=,rubygems:>= 0.8
+0.5.0 thrift:~> 0.2.0|checksum:Av8jx9oq9LXZUv7XUoo5Ml2XOgIWywWjXizOcziFW58=,rubygems:>= 0.8
+0.6.0 thrift:~> 0.5.0|checksum:7f7yPYl3opgMBYiwAtTmEZsn+rAl8+CfH6lCWARcMxc=,rubygems:>= 0.8
+0.6.1 thrift:~> 0.6.0|checksum:mv79QiGW8GXJX3PdYg7J6XzzgU0F6nWfZfT/z2k1M2Q=,rubygems:>= 0.8
+0.6.2 thrift:~> 0.6.0|checksum:QAw/iWXD/rA9uhOV8wA1FXesDUFt9qy3lN87lvmLB88=,rubygems:>= 0.8
+0.6.3 thrift:~> 0.6.0|checksum:aIcLTzq1MbgoIysbK5Fd0DPNBf0unHP2lk0x2xM+OAE=,rubygems:>= 0.8
+0.7.0 thrift:~> 0.7.0|checksum:ezf+UbEJBjt/04uLrhAMX7v/1LXJlq60Z+ieFqJSMPs=,rubygems:>= 0.8
+0.7.1 thrift:~> 0.7.0|checksum:JioNxFBS4XC7rQgP4qDWA7xN5hjkcIcFHNoUMzpQhQY=,rubygems:>= 0.8
+0.8.0 thrift:~> 0.8.0|checksum:2jUWu1Bm5u+5a/y7atRtdDjJxsk/g4+NiRPf8bw6bV8=,rubygems:>= 0.8
+0.8.1 thrift:~> 0.8.0|checksum:vtWomGMKlPIUjSrXpucCkmv1OP3sLz+F+RWPNsTIIEk=,rubygems:>= 0.8
+0.8.2 thrift:~> 0.8.0|checksum:AGupVwyvIymgMasZT4GGA/k9W0CRPXbA3bxZfF9mesQ=,rubygems:>= 0.8
+0.8.3 thrift:~> 0.8.0|checksum:j7IidIwQsdA7Ldhxn4CGVr33VP/zYe0IxdpKEG5qPP0=
+0.9.0 thrift:~> 0.9.0|checksum:J0A74SilAw/BB7RCeOeNnZafzP9QAA/BdHElMnG1MU0=
+0.8.4 thrift:~> 0.8.0|checksum:aiq5I+gPe+q5l6Xu2f8uEqPxwmP+NmXxhC2cS23xHo8=
+0.9.1 thrift:~> 0.9.0|checksum:GoNcKrkoDkNi789mxlhRnu/baMwyDt/Z/Pjc3MHrVpc=
+0.9.2 thrift:~> 0.9.0|checksum:nSy2C9Gkxc0EqbG9Fn8d+fhn/L0XfGfuY2tJqZMl+KU=
+0.9.3 thrift:~> 0.9.0|checksum:Xo6SxI2bMtNFkFXuJ+o8ICm1h1173s0cx7PiTlzeh6Y=,ruby:>= 0

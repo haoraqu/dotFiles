@@ -1,0 +1,3 @@
+---
+0.1.0 railties:< 5.0&>= 3.2.0,thor:~> 0.14|checksum:C/OXnO1iRlT6aXbtt53ow2fCBPC/GQK4WKKWUsjkdfY=,rubygems:>= 1.3.6
+0.1.1 railties:< 5.0&>= 3.2.0,thor:~> 0.14|checksum:jtYuHGqMtlLINc3nCbDdhpN7SMETCq1RABQRTTlH1Rs=,rubygems:>= 1.3.6

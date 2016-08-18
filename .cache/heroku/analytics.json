@@ -1,0 +1,53 @@
+[
+  {
+    "command": "login",
+    "timestamp": 1468817518,
+    "cli_version": "heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2",
+    "version": "heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2",
+    "os": "darwin",
+    "arch": "amd64",
+    "language": "go/1.6.2",
+    "status": 0,
+    "runtime": 19077,
+    "valid": true
+  },
+  {
+    "command": "git:remote",
+    "plugin": "heroku-git",
+    "timestamp": 1468818168,
+    "cli_version": "heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2",
+    "version": "2.5.7",
+    "os": "darwin",
+    "arch": "amd64",
+    "language": "node/6.2.1",
+    "status": 0,
+    "runtime": 1697,
+    "valid": true
+  },
+  {
+    "command": "create",
+    "plugin": "heroku-apps",
+    "timestamp": 1468818851,
+    "cli_version": "heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2",
+    "version": "2.1.12",
+    "os": "darwin",
+    "arch": "amd64",
+    "language": "node/6.2.1",
+    "status": 0,
+    "runtime": 2165,
+    "valid": true
+  },
+  {
+    "command": "open",
+    "plugin": "heroku-apps",
+    "timestamp": 1468818945,
+    "cli_version": "heroku-cli/5.2.24-4b7e305 (darwin-amd64) go1.6.2",
+    "version": "2.1.12",
+    "os": "darwin",
+    "arch": "amd64",
+    "language": "node/6.2.1",
+    "status": 0,
+    "runtime": 1542,
+    "valid": true
+  }
+]

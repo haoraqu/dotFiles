@@ -1,0 +1,15 @@
+---
+0.0.2 builder:>= 0,sinatra:>= 0|checksum:wObl5QiccBs6d/hsg+6EIymJ3T+F0ahiTDn6m9Oivuo=
+0.0.3 builder:>= 0,sinatra:>= 0|checksum:LLtu/W6tuekDN6zNErNk1qX6GsErzEBMkn0nwY+hFz0=
+0.0.4 builder:>= 0,sinatra:>= 0|checksum:e3hWi1ohRfwfwbGmh7/cPe0wgoI9L1R5MA80fltZLiU=
+0.0.5 builder:>= 0,sinatra:>= 0|checksum:BTrr8mTIl+6HW6sEb/bBTOGT3jnbrDMFntBO1XhzIIQ=
+0.0.6 builder:>= 0,sinatra:>= 0|checksum:sfHNZkk2jYL9/Gq2A55rDNdPPl+BDdOfbaHhMd+6vhU=
+0.0.7 builder:>= 0,sinatra:>= 0|checksum:JSMrXu3SC6qHk9uiuP8Z+Y2ZCv7Pm68dmbVRy6+QmWM=
+0.0.8 builder:>= 0,sinatra:>= 0|checksum:iv7mAwNf3kRZaXbdsp9JRSk1ycrbd6EtGrYPFubMCoE=
+0.0.9 builder:>= 0,sinatra:>= 0|checksum:g63+2KlCqojR5rfJ+jS5Yg7a99RIjvQ38czecWPxyu8=
+0.0.10 builder:>= 0,sinatra:>= 0|checksum:uk3isSZaCVGyQ1z668qp2t4HUJDs7F5MYr2zmIF++nE=
+0.0.11 builder:>= 0,sinatra:>= 0|checksum:qRXOAYwXVIv1bYIwfNN+S6GkFvGgZeoX/DYwgPIEgX4=
+0.1.0 builder:>= 0,sinatra:>= 0|checksum:AHKq3F0e+kSfdCBCNdLRrgirEDmkuR/TVyp/RjNUgTY=
+0.2.0 builder:>= 0,sinatra:>= 0|checksum:eXxwQUiFNZDi2srCfHH1d+K3PP40pcn43Kmw3ETjNWY=,ruby:>= 0
+0.3.0 builder:>= 0,sinatra:>= 0|checksum:4cGLRgNxgqrYzupAdQzw9Y2R1DBVdPEEJkqtipIxREo=,ruby:>= 0
+0.3.1 builder:>= 0,sinatra:>= 0|checksum:

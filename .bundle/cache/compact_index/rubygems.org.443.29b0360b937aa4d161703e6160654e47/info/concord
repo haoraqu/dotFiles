@@ -1,0 +1,10 @@
+---
+0.0.1 adamantium:~> 0.0.7,backports:~> 3.0.3,equalizer:~> 0.0.5|checksum:jW9a7GVl7G1j/gOhURYewWQFfgDzCwoOuYiqJntCcig=
+0.0.2 adamantium:~> 0.0.7,equalizer:~> 0.0.5|checksum:EcnxEDWcqSSZX5rjuvITg3ohi2dgOnZrvzlQRxhpyaw=
+0.0.3 adamantium:~> 0.0.7,equalizer:~> 0.0.5|checksum:6IMWlozz7mwWpyvpluZCxHjuPQfRIA1ppv8JC1cNXws=
+0.1.0 adamantium:~> 0.0.7,equalizer:~> 0.0.5|checksum:/lVjPYUTcxmTITkDzAz3qf2oK+zNw2zYVZzxwRH6IbY=
+0.1.1 adamantium:~> 0.0.7,equalizer:~> 0.0.5|checksum:Eqn0B07iqprHeEhq9DllwfMdSV4qvmVSW4sfdiit/lY=
+0.1.2 adamantium:~> 0.0.10,equalizer:~> 0.0.5|checksum:4TkokO5lhLJtig/QKUb+9J3fLq0WLIpPvryzQZSWJt4=
+0.1.3 adamantium:~> 0.0.10,equalizer:~> 0.0.5|checksum:nuF8mxGKx5nJuffwqlUix5G1iiltKC+9/wyFfgCTyNI=
+0.1.4 adamantium:~> 0.1,equalizer:~> 0.0.7|checksum:pybhMHKh2BLK4E4WIotYxmYDUOc79HxCPt/PTJXemBA=
+0.1.5 adamantium:~> 0.2.0,equalizer:~> 0.0.9|checksum:b4U0qdcVwjT5UZmlBxiAxgOCJXH+n9zWf8mS54BtzKw=,ruby:>= 1.9.3

@@ -1,0 +1,29 @@
+---
+0.1.2 rails:>= 3.0.0|checksum:NHqGjr/MADPox58qzZUGeK6wEX6CgzgJZq+xiL+RKJY=
+0.2.0 rails:>= 3.0.0|checksum:eSkOjktwpD14vL8FM5bf/684eopjHTqQtYLxQEX9OoI=
+0.2.1 rails:>= 3.0.0|checksum:f9HtM094lg9DBdlmC9GqiWu1CJ1VlOsj10l8pvNoBWc=
+0.2.2 rails:>= 3.0.0|checksum:ulTJWG8nxQDNE9S/t1pATZT2sIGvEgM3yNd+O4z/F5g=
+0.2.3 rails:>= 3.0.0|checksum:yIo00mVhtfsdUeHLlk/AsQ8B0ThbbfTw+Zz+/TomFus=
+0.2.4 rails:>= 3.0.0|checksum:xcw3mMLTL+nzUfsQtit9NzT+L7nR17hOK6zUbuk+RWU=
+0.3.0 rails:>= 4.0.0.beta1|checksum:ekKbb3eHp3MWHUIMEKn5l8bfJmcGdGS0JoM5eYmXfwA=
+0.3.1 rails:>= 4.0.0.beta1|checksum:ok1TpRvlpFQjZqDAcvYz3/8t39IqNLWbuqEq2J4/zXU=
+0.3.2 rails:>= 4.0.0|checksum:LmIpC0guzFK3VBjsV39HdqIPF0WyBpQYirSUrxFC1ko=
+0.4.0 rails:>= 4.0.0|checksum:n/ZoM1b62leQp6/8GcUhDubG7hMOPH7YPK1tRjhQSHc=
+0.4.1 rails:>= 4.0.0|checksum:3evLX8L09zatlnmG8sHaFoC4v7D+fQ5KFgI2ewR2+Is=,ruby:>= 0
+0.4.2 rails:>= 4.2.0|checksum:
+0.4.3 rails:>= 4.2.0|checksum:
+0.4.4 rails:>= 4.2.0|checksum:
+0.4.5 rails:>= 4.2.0|checksum:
+0.4.6 rails:>= 4.2.0|checksum:
+0.5.0 rails:>= 4.2.0|checksum:
+0.5.2 rails:>= 4.2.0|checksum:
+0.5.3 rails:>= 4.2.0|checksum:c8ef136dd0c7e67c1c6ea47b96135a864e80434f6eb47eb0f86f2101576dfa9c,ruby:>= 2.0,rubygems:>= 0
+0.5.4 rails:>= 4.2.0|checksum:8b1baac95136f91f892965461afce61d25ff36bf55f2efdd9f37693ebebc3c6b,ruby:>= 2.0,rubygems:>= 0
+0.5.5 rails:>= 4.2.0|checksum:3a86087964f36195e37374dc467810aac435352db4ec50a21e0c4aa765079335,ruby:>= 2.1,rubygems:>= 0
+0.5.6 rails:>= 4.2.0|checksum:540b2b2bcf51165f04c1f8a5c6f0d5149eaf09ce7ce52c87b8a62b411c2cba4f,ruby:>= 2.1,rubygems:>= 0
+0.6.0 rails:>= 4.2.0|checksum:42ac81e8637052a582c15f428b6574bab5cf7cd9910ec56e072117078861bd4d,ruby:>= 2.1,rubygems:>= 0
+0.6.1 rails:>= 4.2.0|checksum:d9a282ad47e3f44339dfcf05589646646d994374524da6b65666119dbc4f9bfa,ruby:>= 2.1,rubygems:>= 0
+0.6.2 rails:>= 4.2.0|checksum:b108c8910dd030e123d1ef55dbb0d7fdfed671817124ee952e729af971f51f72,ruby:>= 2.1,rubygems:>= 0
+0.6.3 rails:>= 4.2.0|checksum:aae50dd961a3e93d575bcbd4f81eb3bccb73edcb42d1ff43f893669c3c8bb3a8,ruby:>= 2.1,rubygems:>= 0
+0.6.4 rails:>= 4.2.0|checksum:cef1f15e578756400efedfa3dd3aa3c5e81192e5b974b5fc7950942c68276359,ruby:>= 2.1,rubygems:>= 0
+0.6.5 rails:>= 4.2.0|checksum:d91a7ab706e467dae84e95a094e7ac5b58aa59f1ff0eea2d833d127d9dbcf329,ruby:>= 2.1,rubygems:>= 0

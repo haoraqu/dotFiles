@@ -1,0 +1,8 @@
+---
+1.0.0 activerecord:>= 3.0.0,activesupport:>= 3.0.0|checksum:dCSlZCKVsHtLGEWfu5LghaBKE1yuTwMQDaR0j8QiRpA=,rubygems:>= 1.3.4
+1.0.1 activerecord:>= 3.0.0,activesupport:>= 3.0.0|checksum:yhhXqwDYhI5+iZ6Oa0Oa4oEkvD4yuoQ8WdQ2tX1KCZQ=,rubygems:>= 1.3.4
+1.0.2 activerecord:>= 3.0.0,activesupport:>= 3.0.0|checksum:bM5hcyltytfsahzNNPw0maRIQg1Ukb6isCBcFaC7nlA=,rubygems:>= 1.3.4
+1.0.3 activerecord:>= 3.0.0,activesupport:>= 3.0.0|checksum:6Chi8z5I0oSbjAleA7+oyObZoHIb5LuPfjJ0KcQppz8=,rubygems:>= 1.3.4
+1.1.0 activerecord:>= 3.0.0,activesupport:>= 3.0.0|checksum:xhx1anNXI86Jl7/7dPuO4HE8NJtgB4jHXSUv2Lv8I4s=,ruby:>= 0,rubygems:>= 1.3.4
+1.2.0 activerecord:>= 3.0.0,activesupport:>= 3.0.0|checksum:iwiyyVGshQsIdl7N3szoHasXFW9EdW4YHrAaTkVVjp4=,ruby:>= 0,rubygems:>= 1.3.4
+1.2.1 activerecord:>= 3.0.0,activesupport:>= 3.0.0|checksum:xsFMkwjzBpyVcCHw151+I8V77Jh+g970K1RaFBrDtJM=,ruby:>= 0,rubygems:>= 1.3.4

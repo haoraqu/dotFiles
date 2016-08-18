@@ -1,0 +1,541 @@
+git fetch
+git fetch
+./sbt startSjs
+./sbt startSjs
+/System/Library/Frameworks/JavaVM.framework/Versions/A/Commands/java_home ; exit;
+./sbt startSjs
+cd
+ping -i 60 google.es
+rake db:create
+rake db:schema:load
+rake db:seed
+git fetch
+gem install -v 1.10.6 bundler
+brew install openssl libxml2
+bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
+bundle config build.thrift --with-cppflags=\"-D_FORTIFY_SOURCE=0 -Wno-shift-negative-value\"
+bundle config build.nokogiri --use-system-libraries=true --with-xml2-include=$(brew --prefix libxml2)/include/libxml2
+bundle install
+mysql.server start
+redis-server /usr/local/etc/redis.conf
+pwd
+cd Documents/StellarProjects/app/
+git fetch
+git branch
+git status
+cd Documents/StellarProjects/app/
+./sbt startSjs
+cd Documents/StellarProjects/app/
+./sbt startSjs
+ping -i 60 google.es
+ping -i 60 google.es
+ping -i 60 google.es
+ping -i 60 google.es
+cd Documents/StellarProjects/app/
+git fetch
+./sbt startSjs
+./sbt startSjs
+./sbt startSjs
+pwd
+./sbt clean startSjs
+ping -i 60 google.es
+ping -i 30 google.es
+java --version
+java -version
+cd ~/Documents/installers/
+ls -lrt
+ping https://maven.twttr.com/org/apache/hbase/hbase/1.1.2/hbase-1.1.2.jar
+ping https://maven.twttr.com/
+ping https://google.com/
+ping https://www.google.com.ph/
+curl -Is https://www.google.com.ph/
+curl -Is https://maven.twttr.com/
+curl -Is https://maven.twttr.com/org/apache/hbase/hbase/1.1.2/hbase-1.1.2.jar
+cd Documents/StellarProjects/app/
+git fetch
+./sbt clean compile
+git branch
+git checkout master
+git branch
+git pull
+git branch
+git fetch
+./sbt clean compile
+./sbt clean compile
+git branch
+git pull
+./sbt clean compile
+./sbt compile
+git pull
+./sbt clean compile
+git branch
+cd Documents/StellarProjects/app/
+git branch
+git fetch
+./sbt clean
+./sbt compile
+git diff
+git status
+./sbt clean compile
+git branch
+git status
+git checkout -b csvExport1
+git status
+git status
+git branch
+git fetch
+git diff
+/Users/rhao1/Documents/Backup/GET-member-summary/20160613/client-test_response ; exit;
+cd Documents/StellarKeys/dev/
+ls -ltr
+chmod 600 *
+ls -ltr
+ssh 172.31.14.196
+cd
+airport en0 prefs DisconnectOnLogout=NO
+sudo airport en0 prefs DisconnectOnLogout=NO
+pwd
+cd .local
+ls
+cd cache
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6.tgz
+cd ../opt
+ls
+rm -rf spark-jobserver-0.6.2
+cd ../var
+ls
+rm -rf spark-jobserver-0.6.2
+cd ../cache
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6.tgz
+cd ../opt
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6
+rm -rf spark-jobserver-0.6.2
+cd ../var
+ls
+rm -rf spark-jobserver-0.6.2
+cd ../cache
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6.tgz
+cd ../opt
+ls
+rm -rf spark-jobserver-0.6.2
+cd ../var
+ls
+rm -rf spark-jobserver-0.6.2
+cd ../cache
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6.tgz
+cd ../opt
+ls
+rm -rf spark-jobserver-0.6.2
+cd ../var
+ls
+rm -rf spark-jobserver-0.6.2
+ls
+pwd
+rm -rf spark-jobserver-0.6.2
+ls
+cd ../opt
+ls
+rm -rf spark-jobserver-0.6.2
+ls
+cd ../cache
+ls
+rm-rf spark-1.6.1-bin-hadoop2.6.tgz
+rm -rf spark-1.6.1-bin-hadoop2.6.tgz
+ls
+ls
+cp ~/Documents/installers/spark-1.6.0-bin-hadoop2.6.tgz .
+ls
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6.tgz
+cd ../opt
+ls
+cd ../var
+ls
+cd ../var
+ls
+cd ../opt
+ls
+cd ../cache
+ls
+cd ../var
+ls
+rm -rf spark-jobserver-0.6.2
+ls
+cd ../opt
+ls
+rm -rf spark-jobserver-0.6.2
+rm -rf spark-1.6.1-bin-hadoop2.6
+cd ../cache
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6.tgz
+ls
+ls
+cd ../opt
+ls
+tar -zxvf ../cache/spark-1.6.0-bin-hadoop2.6.tgz 
+ls
+cd ../cache
+ls
+cd ../var
+ls
+cd ../opt
+ls
+cd ../var
+ls
+cd ../cache
+ls
+pwd
+ls
+cd ../var
+ls
+rm -rf spark-jobserver-0.6.2
+cd ../opt
+ls
+rm -rf spark-1.6.0-bin-hadoop2.6
+rm -rf spark-jobserver-0.6.2
+ls
+cd ../cache
+ls
+rm -rf spark-1.6.0-bin-hadoop2.6.tgz
+ls
+ls
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6.tgz
+ls
+cp ~/Documents/installers/spark-1.6.1-bin-hadoop2.6.tgz .
+ls -a
+ls -lrt
+ls -a
+ls -lrt
+ls
+ls -lrt
+cd ../opt
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6 spark-jobserver-0.6.2
+cd ../var
+ls
+rm -rf spark-jobserver-0.6.2
+ls
+rm -rf spark-jobserver-0.6.2
+cd ../opt
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6
+rm -rf spark-jobserver-0.6.2
+ls
+cd ../cache
+ls
+ls -lrt
+rm -rf kafka_2.11-0.9.0.0.tgz
+cp ~/Documents/installers/kafka_2.11-0.9.0.1.tgz .
+ls -lrt
+cd ../var
+ls
+ls -a
+ls -lrt
+rm -rf spark-jobserver-0.6.2
+cd ../opt
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6 spark-jobserver-0.6.2
+ls -a
+cd ../cache
+ls
+ls -a
+ls -lrt
+open https://drive.google.com/open?id=0B9dzaXZ45V6gbjlpNGJ0bEhERlE
+pwd
+cd
+cd .punchtab
+mkdir .punchtab
+cd .punchtab
+nano conn.properties
+ls
+nano conn.properties
+cd ..
+ls
+cd Documents/StellarProjects/app/
+ls
+git branch
+git ls-files
+git diff --cached
+git reset --soft HEAD^
+git status
+git reset HEAD core/src/main/scala/com/stellarloyalty/core/utils/SLLoggerUtility.scala
+git status
+git diff 
+git fetch
+./sbt startSjs
+./sbt startSjs
+./sbt startSjs
+cd
+cd ./local/cache
+cd /.local/cache
+pwd
+cd /.local
+pwd
+cd .local
+cd cache
+ls
+cd ../opt
+ls
+rm -rf spark-1.6.1-bin-hadoop2.6 spark-jobserver-0.6.2
+cd ../var
+ls
+rm -rf spark-jobserver-0.6.2
+cd 
+cd Documents/StellarProjects/app/
+./sbt clean startSjs
+./sbt "project services" "test-only com.stellarloyalty.services.BigDataServicesConsoleClient"
+cd Documents/StellarProjects/app/
+git branch
+git fetch
+git checkout csvExport1
+git fetch
+git diff
+git status
+./sbt clean compile
+cd Documents/StellarProjects/app/
+git branch
+git checkout master
+git branch
+git fetch
+git checkout -b memberSegments
+git branch
+git fetch
+git branch
+git status
+git ls-files
+git ls-files --cached
+git diff --cached
+git diff --cached --name-only --diff-filter=A
+jps
+./sbt startHbase
+jps
+jps
+./sbt startHbase
+./sbt hbaseShell
+t.scan
+./sbt hbaseShell
+cd Documents/StellarProjects/app/
+pwd
+cd ../rails_app/
+git fetch
+gem install -v 1.10.6 bundler
+brew install openssl libxml2
+bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
+bundle config build.thrift --with-cppflags=\"-D_FORTIFY_SOURCE=0 -Wno-shift-negative-value\"
+bundle config build.nokogiri --use-system-libraries=true --with-xml2-include=$(brew --prefix libxml2)/include/libxml2
+bundle install
+mysql.server start
+redis-server /usr/local/etc/redis.conf
+redis-server /usr/local/etc/redis.conf
+ping -i 60 google.es
+ping -i 1 google.es
+ping -i 2 google.es
+ping -i 2 google.es
+cd Documents/StellarProjects/rails_app/
+FINAGLE_URL=localhost:9080 rails server -p 8080
+cd ../rails_app/
+mysql.server start
+redis-server /usr/local/etc/redis.conf
+redis-server /usr/local/etc/redis.conf
+gem install -v 1.10.6 bundler
+brew install openssl libxml2
+bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
+bundle config build.thrift --with-cppflags=\"-D_FORTIFY_SOURCE=0 -Wno-shift-negative-value\"
+bundle config build.nokogiri --use-system-libraries=true --with-xml2-include=$(brew --prefix libxml2)/include/libxml2
+bundle install
+mysql.server start
+redis-server /usr/local/etc/redis.conf
+redis-server /usr/local/etc/redis.conf
+rake db:seed
+DEV_SJS=true FINAGLE_URL=localhost:9080 rails server -p 8080
+rake db:seed
+rake db:migrate
+rake db:seed
+rake db:schema
+rake db:migrate
+rake db:seed
+DEV_SJS=true FINAGLE_URL=localhost:9080 rails server -p 8080
+DEV_SJS=true FINAGLE_URL=localhost:9080 rails server -p 8080
+rake db:migrate
+rake db:seed
+DEV_SJS=true FINAGLE_URL=localhost:9080 rails server -p 8080
+pwd
+git branch
+git fetch
+git status
+git branch
+git diff
+git diff punchtab/src/main/java/com/stellarloyalty/external/export/receipts/pos/BaseTransformer.java
+git diff punchtab/src/main/java/com/stellarloyalty/external/export/receipts/pos/*
+git add punchtab/src/main/java/com/stellarloyalty/external/export/receipts/pos/BaseTransformer.java
+git status
+git commit -m "Yankee - Handle multiple returns for a single transaction"
+git push origin csvExport1
+git commit --amend
+git status
+git push origin csvExport1
+git push -f origin csvExport1
+git branch
+git branch -D csvExport1
+git checkout memberSegments
+git branch -D csvExport1
+ping -2 google.es
+ping -i 2 google.es
+cd ../app
+git branch
+git checkout master
+git branch
+git fetch
+git fetch
+git checkout -b csvExport2
+git branch
+git fetch
+git rebase
+git branch --set-upstream-to=origin/<branch> csvExport2
+git branch --set-upstream-to=origin/master csvExport2
+git branch
+git rebase
+git status
+git branch
+git fetch
+git pull
+git branch
+git status
+git add punchtab/src/test/java/com/stellarloyalty/external/export/receipts/pos/*
+git status
+git diff punchtab/src/test/java/com/stellarloyalty/external/export/receipts/pos/*
+git diff punchtab/src/test/java/com/stellarloyalty/external/export/receipts/pos/
+git diff project/local-dev/resources/*
+git commit -m "updated punchtab tests"
+git push origin csvExport2
+git diff
+git status
+git add punchtab/src/main/java/com/stellarloyalty/external/export/receipts/pos/*
+git commit -m "Yankee - Handle multiple returns for a single transaction, adding filename and line number"
+git push origin csvExport1
+git branch
+git checkout corelogging
+git status
+./sbt startHbase
+./sbt hbaseShell
+cd Documents/StellarProjects/rails_app/
+mysql
+mysql -u mysql_user -p QA2 < ~/Downloads/qa2.sql
+mysql -u rhao1 -p QA2 < ~/Downloads/qa2.sql 
+mysql -u mysql_user -p -P3306 DATABASE < ~/Downloads/qa2.sql
+mysql -u mysql_user -p -P3306 DATABASE < ~/Downloads/qa2.sql
+mysql -u mysql_user -p -P3306 DATABASE < ~/Downloads/qa2.sql
+mysql -u root -p -P3306 QA2 < ~/Downloads/qa2.sql
+mysql create database QA2
+mysql -u root -p -P3306 QA2 < ~/Downloads/qa2.sql
+mysql -u root -p -P3306 qa2 < ~/Downloads/qa2.sql
+create database "QA2"
+mysqldump -u root -p lsmember_development > ~/Downloads/lsmember_development.sql
+mysql -u root -p -P3306 lsmember_development < ~/Downloads/qa2.sql
+mysql.server start
+git pull
+git fetch
+git stash
+git pull
+git stash apply
+git status
+gem install -v 1.10.6 bundler
+brew install openssl libxml2
+bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
+bundle config build.thrift --with-cppflags=\"-D_FORTIFY_SOURCE=0 -Wno-shift-negative-value\"
+bundle config build.nokogiri --use-system-libraries=true --with-xml2-include=$(brew --prefix libxml2)/include/libxml2
+bundle install
+mysql.server start
+mysql -u root -p -P3306 lsmember_development < ~/Downloads/qa2.sql
+mysql.server start
+mysql -u root -p -P3306 lsmember_development < ~/Downloads/qa2.sql
+mysql -u root create database lsmember_development
+mysql.server start
+mysql -u root -p -P3306 lsmember_development < ~/Downloads/qa2.sql
+mysql.server start
+mysql.server start
+mysql.server start
+mysql
+mysql -u root
+mysql
+mysql -u root
+redis-server /usr/local/etc/redis.conf
+redis-server /usr/local/etc/redis.conf
+redis-server /usr/local/etc/redis.conf
+redis-server /usr/local/etc/redis.conf
+redis-server /usr/local/etc/redis.conf
+rake db:create
+rake db:schema:load
+git diff
+git status
+git checkout db/schema.rb
+git checkout -- db/schema.rb
+git reset db/schema.rb
+git checkout -- db/schema.rb
+git status
+rake db:schema:load
+rake db:migrate
+rake db:seed
+DEV_SJS=true FINAGLE_URL=localhost:9080 rails server -p 8080
+rake db:schema:load
+DEV_SJS=true FINAGLE_URL=localhost:9080 rails server -p 8080
+rake db:seed
+DEV_SJS=true FINAGLE_URL=localhost:9080 rails server -p 8080
+rake db:drop
+DEV_SJS=true FINAGLE_URL=localhost:9080 rails server -p 8080
+DEV_SJS=true FINAGLE_URL=localhost:9080 rails server -p 8080
+DEV_SJS=true FINAGLE_URL=localhost:9080 rails server -p 8080
+rake db:migrate
+cd ../app
+./sbt localFinagle
+./sbt localFinagle
+./sbt localFinagle
+./sbt localFinagle
+./sbt localFinagle
+jps
+./sbt startHbase
+jps
+./sbt startHbase
+jps
+./sbt localFinagle
+git branch
+git status
+git diff services/src/main/scala/com/stellarloyalty/services/SLSegmentationEngine.scala
+git add services/src/main/scala/com/stellarloyalty/services/SLSegmentationEngine.scala
+git status
+git fetch
+git merge
+git pull
+git merge master
+git merge memberSegments
+git pull
+git pull master memberSegments
+git branch
+git rebase master
+git commit -m "resolve NPE when fetching segments"
+git rebase master
+git branch
+git status
+git log --graph
+git checkout master
+git pull
+git checkout -
+git rebase master
+git branch
+git status
+git branch
+git log origin..HEAD
+git diff-tree --no-commit-id --name-only -r 4547de96b58560d73d047bb30592235e7b535743
+git diff services/src/main/scala/com/stellarloyalty/services/SLSegmentationEngine.scala
+git diff --cached
+git diff HEAD
+git show COMMIT
+git push origin 4547de96b58560d73d047bb30592235e7b535743 memberSegments
+git push origin 4547de96b58560d73d047bb30592235e7b535743:memberSegments
+git push origin memberSegments

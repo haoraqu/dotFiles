@@ -1,0 +1,10 @@
+---
+1.0.0 |checksum:AV8jL5MXmu/2BjQD0/HuTG5xHEMVxLVXExQcCte599g=
+1.0.1 |checksum:KrPxbR47B76iDNAwOXKvq0ShLWXkopqTWXv1+aKTYR0=
+1.0.2 |checksum:Kc6spoCYe9rmth2NYhRSI8eoUzV0EBpwvRElXNcbDWs=
+1.0.3 |checksum:8Ne2jE+o6yOMUW7yK4MxkXNZCYztZNGyauXoOGR6oY8=
+1.0.4 |checksum:ak4EEUdO/f9TECEByntSN7Wqde36i+fGaFG9X8Ak2xw=
+1.0.5 |checksum:
+1.0.6 sprockets:>= 2.0|checksum:
+1.0.7 sprockets:>= 2.0|checksum:062902eb51fbbe7137e358da3d28b1014c8d0951698cd1a21e5263b8887829fe,ruby:>= 2.0,rubygems:>= 0
+1.0.8 sprockets:>= 2.0|checksum:57fc58dcef777ecdc912b37667b06297d77ae750d675c683f8883027c4f57d0e,ruby:>= 2.0,rubygems:>= 0

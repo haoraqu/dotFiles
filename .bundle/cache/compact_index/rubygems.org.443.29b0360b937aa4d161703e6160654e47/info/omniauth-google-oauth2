@@ -1,0 +1,44 @@
+---
+0.0.1 omniauth:~> 1.0|checksum:poXnGIdN48YIlExqVEeEIuE/T1sC5ksT5qWgJE5O/C4=
+0.0.2 omniauth:~> 1.0|checksum:QdHZlQNzFKTTJk1QxFp8ReSy68PREQxfo1q0pL/+7O0=
+0.0.3 omniauth:~> 1.0|checksum:qjrIK8uPMyUfgELXHURgKkoSm+qxXFYzJSFUt+8s6VE=
+0.0.4 omniauth:~> 1.0|checksum:wL8G7Ncl/Qw9gUsQGvmYmZLZB4x/UfYo0JCdZa8TzUE=
+0.0.5 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:X3C3FMOYSWoKag85Iw7M79sSDo26KKAEFW8PoXYqFG0=
+0.0.6 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:6HFMv6m7hEQIiJ+K3NnUfncJVGmGOKWvXkXF7anYzDk=
+0.0.7 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:niSllcIeGQYeYZFLUVw/15kDENmNFl0gp9Jvk+VHIUk=
+0.0.8 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:OceytAuu/Xx07GEbBvQ7safIJ0qhVRkRxJz/rbYsNPI=
+0.0.9 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:kLVdFrQKn1krySL1ePegpES29XUScj3Zkp5CmHCIt50=
+0.0.10 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:3Mr4FHwM6S8/enHTZl6JLCeNpGjZ+GmeoSrPskv+YSU=
+0.1.0 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:pYevh6HQbgKjf1rkEZigOvgeYFPkrvNMSJrIK3yIqsQ=
+0.1.1 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:E+wIXqMse2a8AliPiKy8wfsW33ElnIlwxZ0Zp6ishwA=
+0.1.2 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:CepEtuG6qp+938qKmE+xJ/96joY+uA/rvAjlwTH5yNY=
+0.1.3 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:3CFKTuZ3j/6ZwmfZl6OxBAQMklcmafcO6RxKsUgp5SQ=
+0.1.4 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:xklnaWc7TOVzdSGPFLWeavgH/nqsXorVc7FkAfej3iA=
+0.1.6 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:1nZOS4/09iChrHuVFcIEk+lOySn1LSybfV+ODWF45TY=
+0.1.7 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:PoLp6+qx1xPMiDUOnbVZLOBFXrPXc7sUG8bEXWAIRw8=
+0.1.8 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:L7xuLIXw6AofOBH8AsX3a6manMJBJsrAr75MDIuFN+Y=
+0.1.9 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:rs1olGLZCMSqtAzlbShJ9IDDqIWTVn3UowJF15Z0xto=
+0.1.10 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:GTAB3Rrw7sq7DHJYkW8P7sI28qzokKl/6HNCbQYj/kE=
+0.1.11 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:yXqA02/3L9ViGZVLT1KVZh9isxRPCEcBfnwTU/hzstk=
+0.1.12 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:IHffjRhu0QC3GS7WwcgPVek7ctp5+MnOXCSRs7H5nKk=
+0.1.13 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:gvGDG50PeOgqumGNZbk2QL9Fyrd8QR187H0A6MuhN9U=
+0.1.15 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:8x8gSqeoE29YsNUcH+k06fJkYjN6fmTLRa5TFZZNG+U=
+0.1.16 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:gF7dbq4JOU6P7sog+Pm9W7EeKP4wdTMrr1xdpe/Rf30=
+0.1.17 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:ATMM+5vN/fQTLWH+HoJqLx/uT0g/J7eclyZHue1XLuc=
+0.1.18 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:vyeA6E4FguMrlod0motEeTJB3hB9u9aYCYX1AticTgw=
+0.1.19 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:XZkCBS36kEQGYOPAQ7eV2ZyrHwTIJZp0Ma5+Ru6ToUg=
+0.2.0 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:Qs0Z1sRLt7UcDipVnSAejxl4oYLcQ3KvqSV44lzFrYs=
+0.2.1 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:DSVl4cK0ClXiQ6oje6lLk/8JUiVzX02yV0C5HvjGDYU=
+0.2.2 omniauth:~> 1.0,omniauth-oauth2:>= 0|checksum:nnZXr6b6Edf5PGlpCdRYara7ATt7EpAYssG6dMi4jVQ=
+0.2.3 omniauth:~> 1.0,omniauth-oauth2:~> 1.1|checksum:UKdZgC3tBPS+UnJcnLT23iIIYJ1UsGSgBLpgPW0apF8=,ruby:>= 0
+0.2.4 omniauth:~> 1.0,omniauth-oauth2:~> 1.1|checksum:6WQPyETpGf67n6Dd9AshhZpOa0nkrzxQZI1xTwpQ98E=,ruby:>= 0
+0.2.5 omniauth:> 1.0,omniauth-oauth2:~> 1.1|checksum:HBGhwzD5Gpp35cUbfxs3iqiwa1SKO8FUUFbO4oNg690=,ruby:>= 0
+0.2.6 omniauth:> 1.0,omniauth-oauth2:~> 1.1|checksum:EtpGGeO1J9rnRuRwepAAekJ5+Co5XbtvOpILbnwMatk=,ruby:>= 0
+0.2.7 addressable:~> 2.3,jwt:~> 1.0,multi_json:~> 1.3,omniauth:>= 1.1.1,omniauth-oauth2:>= 1.1.1|checksum:
+0.2.8 addressable:~> 2.3,jwt:~> 1.0,multi_json:~> 1.3,omniauth:>= 1.1.1,omniauth-oauth2:>= 1.1.1|checksum:
+0.2.9 addressable:~> 2.3,jwt:~> 1.0,multi_json:~> 1.3,omniauth:>= 1.1.1,omniauth-oauth2:~> 1.3.1|checksum:
+0.2.10 addressable:~> 2.3,jwt:~> 1.0,multi_json:~> 1.3,omniauth:>= 1.1.1,omniauth-oauth2:~> 1.3.1|checksum:
+0.3.0 addressable:~> 2.3,jwt:~> 1.0,multi_json:~> 1.3,omniauth:>= 1.1.1,omniauth-oauth2:>= 1.3.1|checksum:1e9d6f4c6b2113c65d61fcd49b67bc691dba6f6cc9b97a64008cb8dc72c7309d,ruby:>= 0,rubygems:>= 0
+0.3.1 jwt:~> 1.0,multi_json:~> 1.3,omniauth:>= 1.1.1,omniauth-oauth2:>= 1.3.1|checksum:e4bbee88789d8aba1b6525c860c9c204f57ae77ae08a99de39f5d79f535064f7,ruby:>= 0,rubygems:>= 0
+0.4.0 jwt:~> 1.5.0,multi_json:~> 1.3,omniauth:>= 1.1.1,omniauth-oauth2:>= 1.3.1|checksum:8d363122da6ad167f6705b701190d32630842ef7f8360fa2af11589a697f4738,ruby:>= 2.0,rubygems:>= 0
+0.4.1 jwt:~> 1.5.2,multi_json:~> 1.3,omniauth:>= 1.1.1,omniauth-oauth2:>= 1.3.1|checksum:fcdefcde05c0f3572e5424be1518fc69660b3d6cf373101a643e0838ea16dbd4,ruby:>= 2.0,rubygems:>= 0
